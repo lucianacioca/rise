@@ -1,0 +1,14 @@
+<msItem>
+                <locus></locus>
+                <title></title>
+                <incipit></incipit>
+                <explicit></explicit>
+                <bibl>
+                    <author></author>
+                    <title></title>
+                    <edition></edition>
+                    <pubPlace></pubPlace>
+                    <date></date>
+                    <num></num>
+                </bibl>
+            </msItem>

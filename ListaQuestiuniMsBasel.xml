@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Basel</settlement>
+                <repository>Universitatbibliothek</repository>
+                <idno>A X 44</idno>
+                <ref>BaselAX44</ref>
+            </msIdentifier>
+        </msDesc>
+    </teiHeader>
+    
+    <body>
+        <msContents>
+            <msItem>
+                <locus>1r-1v</locus>
+                <title>M. Stephani. Utrum in latitudine creabilium specierum sit dare summam citra deum</title>
+                <incipit>Arguitur quod sic, quia in latitudine creatarum specierum est dare summam citra deum, igitur in latitudine etc.</incipit>
+                <explicit>Quod sequitur ex tota positione quod questio est falsa simpliciter, ut proponitur</explicit>
+                <bibl>
+                    <author>Wohl Stephanus de Enczensdorf</author>
+                    <title>Acta facultatis artium universitatis Vindobonnensis</title>
+                    <edition>P. Uiblein, Publikationen des Instituts fur osterreichische Geschichtsforschung 6, 2</edition>
+                    <pubPlace>Graz</pubPlace>
+                    <date>1968</date>
+                    <num>525</num>
+                </bibl>
+            </msItem>
+            <msItem>
+                <locus>1v-2v</locus>
+                <title>M. Andree. Utrum esse liberum contradictorie sit essentiale rationali creature</title>
+                <incipit>Quod non, quia deo clare ostenso non est in potestate voluntatis non diligere ipsum, igitur.</incipit>
+                <explicit>Esse contradictorie liberum non est essentiale cuilibet speciei rationali creature possibili</explicit>
+            </msItem>
+            <msItem>
+                <locus>2v-3v</locus>
+                <title>M. Iohanni Berwardi. Utrum eadem natura creata potuit assumi a pluribus personis divinis</title>
+                <incipit>Et arguitur quod non; illud quod sufficienter ostendit aliquam naturam esse illimitatam seu immensam, hoc non potest attribui nature create.</incipit>
+                <explicit>Secunda pars patet supponendo quod verbum dimittat econverso humanitates omnes quas assumpsit excepta prima</explicit>
+                <add place="below">Utrum sacramentum eukaristie sit maioris efficacie ceteris sacramentis ecclesie</add>
+                <bibl>
+                    <author>Wohl Stephanus de Enczensdorf</author>
+                    <title>Acta facultatis artium universitatis Vindobonnensis</title>
+                    <edition>P. Uiblein, Publikationen des Instituts fur osterreichische Geschichtsforschung 6, 2</edition>
+                    <pubPlace>Graz</pubPlace>
+                    <date>1968</date>
+                    <num>a.a.0. S. 525</num>
+                </bibl>
+            </msItem>
+            <msItem>
+                <locus>3v-5r</locus>
+                <title>M. Pauli: Utrum oblatio eukaristie sit opus maximi valoris inter sacramenta ecclesie</title>
+                <incipit>Quod non; bapstismus videtur potius sacramentum et opus eius maioris valoris quam sacramentum eukaristie.</incipit>
+                <explicit>...quam ille quo se in cena dedit discipulis. Patet ex secunda parte conclusionis</explicit>
+                <bibl>
+                    <author>Wohl Stephanus de Enczensdorf</author>
+                    <title>Acta facultatis artium universitatis Vindobonnensis</title>
+                    <edition>P. Uiblein, Publikationen des Instituts fur osterreichische Geschichtsforschung 6, 2</edition>
+                    <pubPlace>Graz</pubPlace>
+                    <date>1968</date>
+                    <num>a.a.0. S. 554</num>
+                    <desc>wohl Paulus Fabri de Gelria</desc>
+                </bibl>
+            </msItem>
+            <msItem>
+                <locus>5r-6r</locus>
+                <title>M. Nicolai de Anaskilch. Utrum spiritus angelici cogitationes hominum possint intueri</title>
+                <incipit>Quod sic, quia possunt menti hominis illabi, igitur.</incipit>
+                <explicit>...quando vel decepti fuerint vel mentiti</explicit>
+            </msItem>
+            <msItem>
+                <locus></locus>
+                <title></title>
+                <incipit></incipit>
+                <explicit></explicit>
+                <bibl>
+                    <author></author>
+                    <title></title>
+                    <edition></edition>
+                    <pubPlace></pubPlace>
+                    <date></date>
+                    <num></num>
+                </bibl>
+            </msItem>
+        </msContents>
+    </body>
+</TEI>
+
+
