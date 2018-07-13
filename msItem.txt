@@ -12,3 +12,11 @@
                     <num></num>
                 </bibl>
             </msItem>
+
+
+<msItem>
+                <locus></locus>
+                <questionTitle></questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+            </msItem>
