@@ -70,17 +70,53 @@
                 <explicit>...quando vel decepti fuerint vel mentiti</explicit>
             </msItem>
             <msItem>
-                <locus></locus>
-                <title></title>
-                <incipit></incipit>
-                <explicit></explicit>
+                <locus>6r</locus>
+                <title>Magister Henricus de Hassia. Notandum quod solus dei filius secundum hominem unctus fuit cum oleo spirituali secundum speciem et gradum.</title>
+                <incipit>Patet, quia ipse non solum ungebatur</incipit>
+            </msItem>
+            <msItem>
+                <locus>6v-7v</locus>
+                <title>M. Io. Ruesbach. Utrum deus tante possit se communicare ad extra quante se communicat ad intra.</title>
+                <incipit>Et arguitur sic: omnes actus quibus se deus communicat ad extra...</incipit>
+                <explicit>Ex hiis patet quid sit dicendum ad conclusionem</explicit>
                 <bibl>
-                    <author></author>
-                    <title></title>
-                    <edition></edition>
-                    <pubPlace></pubPlace>
-                    <date></date>
-                    <num></num>
+                    <author>Wohl Stephanus de Enczensdorf</author>
+                    <title>Acta facultatis artium universitatis Vindobonnensis</title>
+                    <edition>P. Uiblein, Publikationen des Instituts fur osterreichische Geschichtsforschung 6, 2</edition>
+                    <pubPlace>Graz</pubPlace>
+                    <date>1968</date>
+                    <num>a.a.0. S. 537</num>
+                    <desc>Iohannes de Ruspach</desc>
+                </bibl>
+            </msItem>
+            <msItem>
+                <locus>7v-9r</locus>
+                <title>M. Petrus de Walse. Utrum potentia creandi sit communicabilis creature</title>
+                <incipit>Et arguitur quod non. In infimis difficilius est aliquid ex nihilo producere...</incipit>
+                <explicit>...de creatione substilissime capta que excludit omnes priores</explicit>
+                <bibl>
+                    <author>Wohl Stephanus de Enczensdorf</author>
+                    <title>Acta facultatis artium universitatis Vindobonnensis</title>
+                    <edition>P. Uiblein, Publikationen des Instituts fur osterreichische Geschichtsforschung 6, 2</edition>
+                    <pubPlace>Graz</pubPlace>
+                    <date>1968</date>
+                    <num>a.a.0. S. 559</num>
+                    <desc>Darunter ein Zusatz mit dem Datum "In octava nativitatis virginis gloriose anno domini 1394 hora pirategii. Petrus Schad de Walse</desc>
+                </bibl>
+            </msItem>
+            <msItem>
+                <locus>9r-10r</locus>
+                <title>Domini Gerhardi doctoris decretorum. Utrum quilibet sacerdos possit subditum suum ab excommunicatione absolvere</title>
+                <incipit>Et arguitur primo quod sic, nam quilibet sacerdos subditum suum a peccato...</incipit>
+                <explicit>...hoc est verum non actualiter, sed potentialiter</explicit>
+                <bibl>
+                    <author>Wohl Stephanus de Enczensdorf</author>
+                    <title>Acta facultatis artium universitatis Vindobonnensis</title>
+                    <edition>P. Uiblein, Publikationen des Instituts fur osterreichische Geschichtsforschung 6, 2</edition>
+                    <pubPlace>Graz</pubPlace>
+                    <date>1968</date>
+                    <num>a.a.0. S. 515</num>
+                    <desc>Gerhardus Vischpeckch</desc>
                 </bibl>
             </msItem>
         </msContents>
