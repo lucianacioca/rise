@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT msDesc (msIdentifier, msContents)>
+<!ELEMENT msIdentifier (settlement, repository, idno)>
+<!ELEMENT settlement (#PCDATA)>
+<!ELEMENT repository (#PCDATA)>
+<!ELEMENT idno (#PCDATA)>
+<!ELEMENT msContents (msItem*)>
+<!ELEMENT msItem (locus*, author*, questionTitle*, incipit*, explicit*, bibl*, p*)>
+<!ATTLIST msItem xml:id ID #REQUIRED>
+<!ATTLIST msItem type CDATA #IMPLIED>
+<!ELEMENT locus (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT questionTitle (#PCDATA)>
+<!ELEMENT incipit (#PCDATA)>
+<!ELEMENT explicit (#PCDATA)>
+<!ELEMENT bibl (modernAuthor*, title*, edition*, pubPlace*, date*, num*, p*)>
+<!ELEMENT modernAuthor (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT edition (#PCDATA)>
+<!ELEMENT pubPlace (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT num (#PCDATA)>
+<!ELEMENT p (#PCDATA)>

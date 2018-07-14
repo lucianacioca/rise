@@ -1,23 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <!-- manuscript description file -->
-   <msDesc>
-            <msIdentifier>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="MsDesc.xsl" type="text/xsl"?>
+<!DOCTYPE msDesc SYSTEM "msDesc.dtd">
+<msDesc>
+        <msIdentifier>
                 <settlement>Basel</settlement>
                 <repository>Universitatbibliothek</repository>
                 <idno>A X 44</idno>
-                <ref>BaselAX44</ref>
-            </msIdentifier>
-       
+        </msIdentifier>
         <msContents>
-            <msItem xml:id="1r1v">
+            <msItem xml:id="item1">
                 <locus>1r-1v</locus>
                 <author>Stephanus</author>
                 <questionTitle>Utrum in latitudine creabilium specierum sit dare summam citra deum</questionTitle>
                 <incipit>Arguitur quod sic, quia in latitudine creatarum specierum est dare summam citra deum, igitur in latitudine etc.</incipit>
                 <explicit>Quod sequitur ex tota positione quod questio est falsa simpliciter, ut proponitur</explicit>
                 <bibl>
-                    <author>Wohl Stephanus de Enczensdorf</author>
+                    <modernAuthor>Wohl Stephanus de Enczensdorf</modernAuthor>
                     <title>Acta facultatis artium universitatis Vindobonnensis</title>
                     <edition>P. Uiblein, Publikationen des Instituts fur osterreichische Geschichtsforschung 6, 2</edition>
                     <pubPlace>Graz</pubPlace>
@@ -25,14 +23,14 @@
                     <num>525</num>
                 </bibl>
             </msItem>
-            <msItem xml:id="1v2v">
+            <msItem xml:id="item2">
                 <locus>1v-2v</locus>
                 <author>Andrea</author>
                 <questionTitle>Utrum esse liberum contradictorie sit essentiale rationali creature</questionTitle>
                 <incipit>Quod non, quia deo clare ostenso non est in potestate voluntatis non diligere ipsum, igitur.</incipit>
                 <explicit>Esse contradictorie liberum non est essentiale cuilibet speciei rationali creature possibili</explicit>
             </msItem>
-            <msItem xml:id="2v3v">
+            <msItem xml:id="item3">
                 <locus>2v-3v</locus>
                 <author>Iohannes Berwardus</author>
                 <questionTitle>M. <name>Iohanni Berwardi</name>Utrum eadem natura creata potuit assumi a pluribus personis divinis</questionTitle>
@@ -40,7 +38,7 @@
                 <explicit>Secunda pars patet supponendo quod verbum dimittat econverso humanitates omnes quas assumpsit excepta prima</explicit>
                 <add place="below">Utrum sacramentum eukaristie sit maioris efficacie ceteris sacramentis ecclesie</add>
                 <bibl>
-                    <author>Wohl Stephanus de Enczensdorf</author>
+                    <modernAuthor>Wohl Stephanus de Enczensdorf</modernAuthor>
                     <title>Acta facultatis artium universitatis Vindobonnensis</title>
                     <edition>P. Uiblein, Publikationen des Instituts fur osterreichische Geschichtsforschung 6, 2</edition>
                     <pubPlace>Graz</pubPlace>
@@ -48,14 +46,14 @@
                     <num>a.a.0. S. 525</num>
                 </bibl>
             </msItem>
-            <msItem xml:id="3v5r">
+            <msItem xml:id="item4">
                 <locus>3v-5r</locus>
                 <author>Paulus</author>
                 <questionTitle>Utrum oblatio eukaristie sit opus maximi valoris inter sacramenta ecclesie</questionTitle>
                 <incipit>Quod non; bapstismus videtur potius sacramentum et opus eius maioris valoris quam sacramentum eukaristie.</incipit>
                 <explicit>...quam ille quo se in cena dedit discipulis. Patet ex secunda parte conclusionis</explicit>
                 <bibl>
-                    <author>Wohl Stephanus de Enczensdorf</author>
+                    <modernAuthor>Wohl Stephanus de Enczensdorf</modernAuthor>
                     <title>Acta facultatis artium universitatis Vindobonnensis</title>
                     <edition>P. Uiblein, Publikationen des Instituts fur osterreichische Geschichtsforschung 6, 2</edition>
                     <pubPlace>Graz</pubPlace>
@@ -64,27 +62,27 @@
                     <desc>wohl Paulus Fabri de Gelria</desc>
                 </bibl>
             </msItem>
-            <msItem xml:id="5r6r">
+            <msItem xml:id="item5">
                 <locus>5r-6r</locus>
                 <author>Nicolas de Anaskilch</author>
                 <questionTitle>Utrum spiritus angelici cogitationes hominum possint intueri</questionTitle>
                 <incipit>Quod sic, quia possunt menti hominis illabi, igitur.</incipit>
                 <explicit>...quando vel decepti fuerint vel mentiti</explicit>
             </msItem>
-            <msItem xml:id="6r6r">
+            <msItem xml:id="item6">
                 <locus>6r</locus>
                 <author>Henricus de Hassia</author>
                 <questionTitle>Notandum quod solus dei filius secundum hominem unctus fuit cum oleo spirituali secundum speciem et gradum.</questionTitle>
                 <incipit>Patet, quia ipse non solum ungebatur</incipit>
             </msItem>
-            <msItem xml:id="6v7v">
+            <msItem xml:id="item7">
                 <locus>6v-7v</locus>
                 <author>Iohannes Ruesbach</author>
                 <questionTitle>Utrum deus tante possit se communicare ad extra quante se communicat ad intra.</questionTitle>
                 <incipit>Et arguitur sic: omnes actus quibus se deus communicat ad extra...</incipit>
                 <explicit>Ex hiis patet quid sit dicendum ad conclusionem</explicit>
                 <bibl>
-                    <author>Wohl Stephanus de Enczensdorf</author>
+                    <modernAuthor>Wohl Stephanus de Enczensdorf</modernAuthor>
                     <title>Acta facultatis artium universitatis Vindobonnensis</title>
                     <edition>P. Uiblein, Publikationen des Instituts fur osterreichische Geschichtsforschung 6, 2</edition>
                     <pubPlace>Graz</pubPlace>
@@ -93,66 +91,66 @@
                     <desc>Iohannes de Ruspach</desc>
                 </bibl>
             </msItem>
-            <msItem xml:id="7v9r">
+            <msItem xml:id="item8">
                 <locus>7v-9r</locus>
                 <author>Petrus de Walse</author>
                 <questionTitle>Utrum potentia creandi sit communicabilis creature</questionTitle>
                 <incipit>Et arguitur quod non. In infimis difficilius est aliquid ex nihilo producere...</incipit>
                 <explicit>...de creatione substilissime capta que excludit omnes priores</explicit>
                 <bibl>
-                    <author>Wohl Stephanus de Enczensdorf</author>
+                    <modernAuthor>Wohl Stephanus de Enczensdorf</modernAuthor>
                     <title>Acta facultatis artium universitatis Vindobonnensis</title>
                     <edition>P. Uiblein, Publikationen des Instituts fur osterreichische Geschichtsforschung 6, 2</edition>
                     <pubPlace>Graz</pubPlace>
                     <date>1968</date>
                     <num>a.a.0. S. 559</num>
-                    <desc>Darunter ein Zusatz mit dem Datum "In octava nativitatis virginis gloriose anno domini 1394 hora pirategii. Petrus Schad de Walse</desc>
+                    <p>Darunter ein Zusatz mit dem Datum "In octava nativitatis virginis gloriose anno domini 1394 hora pirategii. Petrus Schad de Walse</p>
                 </bibl>
             </msItem>
-            <msItem xml:id="9r10r">
+            <msItem xml:id="item9">
                 <locus>9r-10r</locus>
                 <author>Gerhardus</author> <add>doctor decretorum</add>
                 <questionTitle>Utrum quilibet sacerdos possit subditum suum ab excommunicatione absolvere</questionTitle>
                 <incipit>Et arguitur primo quod sic, nam quilibet sacerdos subditum suum a peccato...</incipit>
                 <explicit>...hoc est verum non actualiter, sed potentialiter</explicit>
                 <bibl>
-                    <author>Wohl Stephanus de Enczensdorf</author>
+                    <modernAuthor>Wohl Stephanus de Enczensdorf</modernAuthor>
                     <title>Acta facultatis artium universitatis Vindobonnensis</title>
                     <edition>P. Uiblein, Publikationen des Instituts fur osterreichische Geschichtsforschung 6, 2</edition>
                     <pubPlace>Graz</pubPlace>
                     <date>1968</date>
                     <num>a.a.0. S. 515</num>
-                    <desc>Gerhardus Vischpeckch</desc>
+                    <p>Gerhardus Vischpeckch</p>
                 </bibl>
             </msItem>
-            <msItem xml:id="10r10v">
+            <msItem xml:id="item10">
                 <locus>10r-v</locus>
                 <author>Paulus</author>
                 <questionTitle>Nota questionem ex dictis M. <name>Pauli</name></questionTitle>
                 <incipit>Quamvis foret sustinebile lucem gencium dei sapienciam posse esse creature racionali beatitudinem formaliter hoc tamen non videtur nobis asserendum esse aliqualiter. Primum personaliter divinam sapienciam sic posse communicari creature...</incipit>
                 <explicit>...ymmo multi opinati sunt hoc de anima christi, igitur.</explicit>
             </msItem>
-            <msItem xml:id="10v11r">
+            <msItem xml:id="item11">
                 <locus>10v-11r</locus>
                 <author>Paulus</author>
                 <questionTitle>Nota quod univoce aliquid ponitur (?) de deo et creaturis. Nota propositionem istam M. <name>Pauli</name></questionTitle>
                 <incipit>Quod quecumque res sint diversimode seu dispariter cognosccentes non propter hoc ly sapientia vel esse sapiens dicitur de eis equivoce, sed univoce...</incipit>
                 <p>Several pieces from one Questio de materia prima</p>
             </msItem>
-            <msItem xml:id="11v11v">
+            <msItem xml:id="item12">
                 <locus>11v</locus>
                 <author>Paulus</author>
                 <questionTitle>Nota quod anime humane nobilitas exsistens nobis plus innotescit quod cognoscitur esse intellectiva quam quod cognoscitur esse volitiva</questionTitle>
                 <incipit>Probatur: illa potentia est alia nobilior...</incipit>
             </msItem>
-            <msItem xml:id="11v12r">
+            <msItem xml:id="item13">
                 <locus>11v-12r</locus>
                 <author>Petrus de Treisa</author>
                 <questionTitle>Utrum anime a corporibus separate cognoscant res in proprio genere</questionTitle>
                 <incipit>Arguitur quod non, nam si cognoscerent, hoc esset per speciem...</incipit>
                 <explicit>Questio ut proponitur est vera</explicit>
                 <bibl>
-                    <author>Wohl Stephanus de Enczensdorf</author>
+                    <modernAuthor>Wohl Stephanus de Enczensdorf</modernAuthor>
                     <title>Acta facultatis artium universitatis Vindobonnensis</title>
                     <edition>P. Uiblein, Publikationen des Instituts fur osterreichische Geschichtsforschung 6, 2</edition>
                     <pubPlace>Graz</pubPlace>
@@ -160,7 +158,7 @@
                     <num>a.a.0. S. 558</num>
                 </bibl>
             </msItem>
-            <msItem xml:id="12r12v">
+            <msItem xml:id="item14">
                 <locus>12r-v</locus>
                 <author>Paulus</author>
                 <questionTitle>Quamvis sola lux gentium christus homines viatores in administratione sacrorum iustificet auctoritative et principaliter communicari tamen potest homini potentia ut hoc idem faciat regulario et ministerialiter</questionTitle>
@@ -168,398 +166,398 @@
                 <explicit>...quartum corollarium huius conclusionis quere in cedula</explicit>
                 <p>Including a short citation from Iohannes Buridan</p>
             </msItem>
-            <msItem xml:id="12v12v">
+            <msItem xml:id="item15">
                 <locus>12v</locus>
                 <questionTitle>Utrum sapientia divina possit esse rationabilibus mentibus sapientia formaliter</questionTitle>
                 <incipit>Arguitur quod non. Sapientia divina non potest esse formalis cognitio rationalis mentis</incipit>
             </msItem>
-            <msItem xml:id="13r13r">
+            <msItem xml:id="item16">
                 <locus>13r</locus>
                 <p>Supplement to 6v</p>
             </msItem>
-            <msItem xml:id="13r13v">
+            <msItem xml:id="item17">
                 <locus>13r-v</locus>
                 <p>Supplement to 3v</p>
             </msItem>
-            <msItem xml:id="13v13v">
+            <msItem xml:id="item18">
                 <locus>13v</locus>
                 <questionTitle>Nota secundum alios de ratione universi secundum essentiam ut est deus est quod omni rei sit presens per essentiam...</questionTitle>
             </msItem>
-            <msItem xml:id="13v14r">
+            <msItem xml:id="item19">
                 <locus>13v-14r</locus>
                 <author>Durandus</author>
                 <questionTitle>Istum tytulum etiam monet <name>Durandus</name> super tertio. d. 20. Utrum aliqua persona creata satisfacere potuerit pro tota humana natura</questionTitle>
                 <incipit>Conclusio prima: quamquam utraque istarum personarum in divinis...</incipit>
                 <explicit>...et quia scivit patrem velle omne genus humanum reparare quare etc.</explicit>
             </msItem>
-            <msItem xml:id="14r14v">
+            <msItem xml:id="item20">
                 <locus>14r-v</locus>
                 <author>Henricus de Hasia</author>
                 <questionTitle>Utrum sit magis fugibile simpliciter non esse quam dampnabiliter miser esse</questionTitle>
                 <incipit>Quod sic patet Matth. 26 <quote type="bible">melius illi erat</quote></incipit>
                 <explicit>...tamen magis fugibile est non esse quam in culpa ut pena semper esse</explicit>
             </msItem>
-            <msItem xml:id="14v15r">
+            <msItem xml:id="item21">
                 <locus>14v-15r</locus>
                 <questionTitle>Utrum omnis creatura rationalis necessario obligetur ad diligendum dominum et alium propter eum</questionTitle>
                 <incipit>Prima conclusio: sicut necessarium est existentibus creaturis...</incipit>
                 <explicit>...nec deobligor sed continue plus et plus obligor</explicit>
             </msItem>
-            <msItem xml:id="15r15v">
+            <msItem xml:id="item22">
                 <locus>15r-15v</locus>
                 <questionTitle>Utrum perversius sit fruendis uti quam utendis frui</questionTitle>
                 <incipit>Arguitur quod non. Fruendis uti non est perversum...</incipit>
                 <explicit>...ut si produceretur in latitudine etc.</explicit>
             </msItem>
-            <msItem xml:id="15v15v">
+            <msItem xml:id="item23">
                 <locus>15v</locus>
                 <questionTitle>Utrum essentia divina distinguatur a parte realitatis</questionTitle>
                 <incipit>Dicendum est quod non realiter, sed formaliter...</incipit>
             </msItem>
-            <msItem xml:id="15v16r">
+            <msItem xml:id="item24">
                 <locus>15v-16r</locus>
                 <questionTitle>Nota de simplicitate dei</questionTitle>
                 <incipit>Nota quod quedam est simplicitas que opponitur compositioni plurium ex quibus resultat...</incipit>
             </msItem>
-            <msItem xml:id="16r16v">
+            <msItem xml:id="item25">
                 <locus>16r-v</locus>
                 <questionTitle>Utrum omnis nolitio sit usus et nulla fruitio</questionTitle>
                 <incipit>Pro falsitate arguitur; aliqua nolitio non est usus et aliqua est fruitio...</incipit>
                 <explicit>...igitur non esset, nec posset esse bonum, et sic est implicatio</explicit>
             </msItem>
-            <msItem xml:id="16v16v">
+            <msItem xml:id="item26">
                 <locus>16v</locus>
                 <questionTitle>Utrum esse suppositum trine sit propria proprietas essentie divine</questionTitle>
                 <incipit>Conclusio prima: essentiam creatam trine personaliter suppositam dominum posse facere...</incipit>
             </msItem>
-            <msItem xml:id="16v17v">
+            <msItem xml:id="item27">
                 <locus>16v-17v</locus>
                 <questionTitle>Utrum potentia intellectiva ut sit sit neutralis respectu active et passive</questionTitle>
                 <incipit>Contra <name>Commentator</name> ponit per ipsam non est questio terminata...</incipit>
                 <explicit>Questio ut proponitur est vera</explicit>
             </msItem>
-            <msItem xml:id="17v18r">
+            <msItem xml:id="item28">
                 <locus>17v-18r</locus>
                 <questionTitle>Utrum sit magis meritorium diligere deum quam diligere creaturam propter eum</questionTitle>
                 <incipit>Quod non, quia diligendo deum impletur solum unum preceptum...</incipit>
                 <explicit>...sed ex duobus scilicet caliditate et unione partium subiecti etc.</explicit>
             </msItem>
-            <msItem xml:id="18r18v">
+            <msItem xml:id="item29">
                 <locus>18r-v</locus>
                 <questionTitle>Utrum Deus sit simpliciter conceptibilis et proprie diffinibilis</questionTitle>
                 <incipit>Contra terciam conclusionem. Deus non est proprie diffinibilis descriptive</incipit>
                 <explicit>…quod illud contrarium concipiendum est</explicit>
             </msItem>
-            <msItem xml:id="18v19r">
+            <msItem xml:id="item30">
                 <locus>18v-19r</locus>
                 <questionTitle>Utrum emanaciones in divinis sint eiusdem racionis</questionTitle>
                 <incipit>Quod sic patet <name>Anselmi</name> <title>De processione Spiritus Sancti</title>, cap. 2...</incipit>
                 <explicit>...vel eius singularis est per naturam possibilis</explicit>
             </msItem>
-            <msItem xml:id="19r19v">
+            <msItem xml:id="item31">
                 <locus>19r-v</locus>
                 <questionTitle>Utrum sub tempore gracie et plenitudinis possibile sit Christum dupliciter esse natum enarrari a doctis</questionTitle>
                 <incipit>Arguitur pro parte negativa Christus non est natus...</incipit>
                 <explicit>...sicut unus creator est, tres persone etc.</explicit>
             </msItem>
-            <msItem xml:id="19v20r">
+            <msItem xml:id="item32">
                 <locus>19v-20r</locus>
                 <questionTitle>Utrum in statu innocentie corpus humanum si immortale perstetisset onus legis Ewangelice gravis onere legis Moysi successisset</questionTitle>
                 <incipit>Contra lex Ewangelii in statu innocentie non fuisset...</incipit>
                 <explicit>...in iustitia patrum nostrorum propinquorum</explicit>
             </msItem>
-            <msItem xml:id="20r20v">
+            <msItem xml:id="item33">
                 <locus>20r-v</locus>
                 <questionTitle>Utrum sicut sub speciebus panis et vini corpus et sanguis Christi continetur realiter ita indulgencie de eius festo date valeant ut sonant veraciter</questionTitle>
                 <incipit>Si modo posset michi esse speracio...</incipit>
                 <explicit>...applicetur manui sicut in celo</explicit>
             </msItem>
-            <msItem xml:id="20v20v">
+            <msItem xml:id="item34">
                 <locus>20v</locus>
                 <questionTitle>Nota de differencia peccati mortalis a veniali</questionTitle>
                 <incipit>Nota quod una ymaginacio de differencia peccati mortalis a veniali est quod ymaginetur lex divina tamquam una regula et linea rectissima </incipit>
             </msItem>
-            <msItem xml:id="20v21r">
+            <msItem xml:id="item35">
                 <locus>20v-21r</locus>
                 <questionTitle>Utrum liberum arbitrium se eque habeat ad bonum et ad malum</questionTitle>
                 <incipit>Nota fundamentum secunde conclusionis est quod intellectus divinus ex se fuit indifferens...</incipit>
                 <explicit>...et omnia in seipusm referret et in suum comodum</explicit>
             </msItem>
-            <msItem xml:id="21r21r">
+            <msItem xml:id="item36">
                 <locus>21r</locus>
                 <questionTitle>Utrum disposicio Dei eterna sit antecedens necessitas ad productibilia ad extra</questionTitle>
                 <incipit>Responsum quod non sed omnia que ad extra producuntur continenter producentur</incipit>
             </msItem>
-            <msItem xml:id="21r21v">
+            <msItem xml:id="item37">
                 <locus>21r-v</locus>
                 <questionTitle>Utrum in divinis ponenda sit quaternitas</questionTitle>
                 <incipit>Responsum quod non. Contra omnis distinctio sufficit ad ponendum in numerum...</incipit>
                 <explicit>...quod convenit Filio eciam convenit Patri et non econtrario quia generare etc</explicit>
             </msItem>
-            <msItem xml:id="22r22r">
+            <msItem xml:id="item38">
                 <locus>22r</locus>
                 <questionTitle>Nota quod Christus est rex et capud ecclesie. Utrum Christus capud et sponsus militantis ecclesie possit ab aliqua creatura racionali non diligi meritorie</questionTitle>
                 <incipit>Conclusio prima Messias prophetice promissus antique legis tempore</incipit>
             </msItem>
-            <msItem xml:id="22r22r2">
+            <msItem xml:id="item39">
                 <locus>22r</locus>
                 <questionTitle>Utrum in divinis sit aliquid prius vel posterius maius vel minus superius vel inferius</questionTitle>
                 <incipit>Quod sic arguitur per illud Io. 15 <quote type="bible">Pater maior me est</quote></incipit>
             </msItem>
-            <msItem xml:id="22r22v">
+            <msItem xml:id="item40">
                 <locus>22r-v</locus>
                 <questionTitle>Nota quod potest esse sive sumi una persuasio quare solum sint tres persone divine</questionTitle>
             </msItem>
-            <msItem xml:id="22v23r">
+            <msItem xml:id="item41">
                 <locus>22v-23r</locus>
                 <questionTitle>Utrum in qualibet re create entitatis reperiatur vestigium benedicte Trinitatis</questionTitle>
                 <incipit>Quod non, quia in aliquibus reperitur ymago igitur non vestigium...</incipit>
                 <explicit>...quod licet non potest dici quomodo arguitur tamen</explicit>
             </msItem>
-            <msItem xml:id="23r23v">
+            <msItem xml:id="item42">
                 <locus>23r-v</locus>
                 <author>Petrus de Walse</author>
                 <questionTitle>Utrum in eadem vis spirativa que est in Patre et Filio sit in Spiritu Sancto</questionTitle>
                 <incipit>Quod sic arguitur, quia, si non...</incipit>
                 <explicit>...sed non frustra enunciari quem Pater et eomodo precipue</explicit>
             </msItem>
-            <msItem xml:id="23v23v">
+            <msItem xml:id="item43">
                 <locus>23v</locus>
                 <questionTitle>Utrum missio Spiritus Sancti eterna differat ab eius missione temporali</questionTitle>
                 <incipit>Quod sic, quia eternum et temporale differunt igitur et missio eterna</incipit>
             </msItem>
-            <msItem xml:id="23v24r">
+            <msItem xml:id="item44">
                 <locus>23v-24r</locus>
                 <author>Nicolaus Dinkelspül</author>
                 <questionTitle>Utrum Spiritus Sanctus mittatur ad creaturas racionales et irracionales</questionTitle>
                 <incipit>Quod sic, quia missio fit ad sciendum...</incipit>
                 <explicit>...evidencius est causa patet in tercio folio</explicit>
             </msItem>
-            <msItem xml:id="24r24r">
+            <msItem xml:id="item45">
                 <locus>24r</locus>
                 <questionTitle>Utrum duplex sit fruicio ponenda scilicet naturalis et supernaturalis</questionTitle>
                 <incipit>Conclusio prima: licet possibile sit viatorem post lapsum cognoscere</incipit>
             </msItem>
-            <msItem xml:id="24r24r2">
+            <msItem xml:id="item46">
                 <locus>24r</locus>
                 <questionTitle>Utrum homo precipue ex se possit se ad graciam disponere</questionTitle>
                 <incipit>Conclusio prima: sicut gratia creata requiritur ad meritum</incipit>
             </msItem>
-            <msItem xml:id="24r24r3">
+            <msItem xml:id="item47">
                 <locus>24r</locus>
                 <questionTitle>Utrum attributa in divinis aut distinccio personalis repugnent summe simplicitati unitatis essencialis</questionTitle>
                 <incipit>Conclusio prima: sicut solus Deus est actus...</incipit>
             </msItem>
-            <msItem xml:id="24r24r4">
+            <msItem xml:id="item48">
                 <locus>24r</locus>
                 <questionTitle>Utrum reprobatus dampnabiliter possit agere meritorie finaliter</questionTitle>
                 <incipit>Conclusio prima: reprobacio Dei eterna nullam necessitatem peccandi...</incipit>
             </msItem>
-            <msItem xml:id="24r24r5">
+            <msItem xml:id="item49">
                 <locus>24r</locus>
                 <questionTitle>Utrum sit tantum unus Deus</questionTitle>
                 <incipit>Conclusio prima: licet Deum esse sit necessarium simpliciter...</incipit>
             </msItem>
-            <msItem xml:id="24r24v">
+            <msItem xml:id="item50">
                 <locus>24r-v</locus>
                 <questionTitle>Utrum divina essencia realiter distinguatur a persona</questionTitle>
                 <incipit>Conclusio prima: essentia divina distinguitur formaliter a persona</incipit>
             </msItem>
-            <msItem xml:id="24v24v">
+            <msItem xml:id="item51">
                 <locus>24v</locus>
                 <questionTitle>Utrum voluntas humana contradictorie libera mortalis peccati conscia quolibet actu suo libero nova letalis reatus illaqueetur macula</questionTitle>
                 <incipit>Conclusio prima: voluntas humana cum Dei communi influencia</incipit>
             </msItem>
-            <msItem xml:id="24v24v2">
+            <msItem xml:id="item52">
                 <locus>24v</locus>
                 <questionTitle>Utrum peccati mortalis a veniali possit in qualibet specie differencia sciri</questionTitle>
                 <incipit>Conclusio prima: licet penes discessum a lege eterna possit considerari cuiuslibet peccati latitudo...</incipit>
             </msItem>
-            <msItem xml:id="24v26v">
+            <msItem xml:id="item53">
                 <locus>24v-26v</locus>
                 <questionTitle>Nota de obiecto bonitatis</questionTitle>
                 <incipit>Nota quod in Patre est omnis fecunditatis beatifice fontalis affluencia quod patet nam obiecto beatifice fruitionis...</incipit>
                 <explicit>...qui amore superne patrie ad cuncta presentis vite adversa preparantur</explicit>
                 <p>25r Rd. oben <mentioned>Anno domini 1397</mentioned>, unten <mentioned>Anno domini 1396</mentioned></p>
             </msItem>
-            <msItem xml:id="26v26v">
+            <msItem xml:id="item54">
                 <locus>26v</locus>
                 <questionTitle>Nota de habitudine illorum terminorum, velle, nolle etc.</questionTitle>
                 <incipit>H.H. Dicendum est de habitudine istorum terminorum velle, nolle, non velle, non nolle, velle non esse</incipit>
             </msItem>
-            <msItem xml:id="26v27v">
+            <msItem xml:id="item55">
                 <locus>26v-27v</locus>
                 <questionTitle>Nota de visionibus</questionTitle>
                 <incipit>Notandum est de triplici fantasmatum origine quarum prima est per attentas sensaciones exteriores...</incipit>
                 <explicit>...in quantum est talis disposicionis et figure</explicit>
             </msItem>
-            <msItem xml:id="27v28v">
+            <msItem xml:id="item56">
                 <locus>27v-28v</locus>
                 <questionTitle>Utrum esse suppositum trine sit propria proprietas essencie divine</questionTitle>
                 <incipit>Arguitur quod non nam esse suppositum trine potest competere creature...</incipit>
                 <explicit>...questio est vera sed iuxta secundum caucius dubitanda. Patet ex dictis</explicit>
                 <p>Vgl. das selbe. Thema 76r</p>
             </msItem>
-            <msItem xml:id="28v28v">
+            <msItem xml:id="item57">
                 <locus>28v</locus>
                 <questionTitle>Circa secundum librum Sentenciarum. Utrum Deus possit se tante communicare ad extra quante ad intra et utrum persone different suprascripte</questionTitle>
                 <incipit>Nota quamlibet denominacionem perfeccionis simpliciter potest Deus communicare creature</incipit>
             </msItem>
-            <msItem xml:id="29r29r">
+            <msItem xml:id="item58">
                 <locus>29r</locus>
                 <questionTitle>Utrum sit dare supremam speciem in latitudine creabilium</questionTitle>
                 <incipit>Reverendum H. H. ...</incipit>
             </msItem>
-            <msItem xml:id="29r29v">
+            <msItem xml:id="item59">
                 <locus>29r-v</locus>
                 <questionTitle>Utrum beatorum beatitudo et dampnatorum dampnacio augeatur</questionTitle>
                 <incipit>H. H. dicit duplicem beatitudinem essencialem et accidentalem...</incipit>
                 <explicit>...quia Deus pronior est ad premiandum quam ad puniendum.</explicit>
             </msItem>
-            <msItem xml:id="29v32v">
+            <msItem xml:id="item60">
                 <locus>29v-32v</locus>
                 <questionTitle>Quaestiones 16 de theologia et bono: questiones disputate in stuba collegii domini ducis. Utrum Deus sit subiectum theologie</questionTitle>
                 <incipit>Obiectum vel subiectum theologie viatoris est intuitiva beatifica visio divine essencie...</incipit>
                 <explicit>...nulla maior esset eis debita nec sic nec sic.</explicit>
                 <p><name>Henricus de Hassia</name> is quoted several times</p>
             </msItem>
-            <msItem xml:id="31v36v">
+            <msItem xml:id="item61">
                 <locus>31v-36v</locus>
                 <questionTitle>Quaestiones 32 disputatae: in aula fuerunt disputata. Utrum quecumque corpora glorificata vel non glorificata secundum suas qualitates sint sensuum immutativa</questionTitle>
                 <incipit>Nota color dicitur propriissime videri...</incipit>
                 <explicit>...supplet deffectum illius accionis.</explicit>
                 <p>Including two notaries by <name>Henricus de Hassia</name>; at the bottom Rd. <mentioned>Anno domini 1397</mentioned></p>
             </msItem>
-            <msItem type="description" xml:id="37r48r">
+            <msItem type="description" xml:id="item62">
                 <locus>37r-48r</locus>
                 <questionTitle>Quaestiones quaedam: Est questio <name>Scoti</name> super primo, d. 37. Utrum Deum esse ubique per potenciam inferat eum necessario esse ubique per essenciam.</questionTitle>
                 <incipit>Esse nobis aliquid presens...</incipit>
                 <p>The reference to <name>John Duns Scotus</name> refers only to the theme - <title>Opera omnia</title> 10, Paris 1893, p. 595</p>
             </msItem>
-            <msItem>
+            <msItem xml:id="item63">
                 <locus>37r-38r</locus>
                 <questionTitle>Utrum ressureccio finalis homini fiat secundum differencias etatum et sexum</questionTitle>
                 <incipit>Notandum quod anima retinebit naturalem inclinacionem...</incipit>
                 <explicit>...et sic non fuit opus ipsum resurgere.</explicit>
             </msItem>
-            <msItem>
+            <msItem xml:id="item64">
                 <locus>37ra</locus>
                 <questionTitle>Utrum aliqua gens virtute legis nature possit iuste et recte vivere</questionTitle>
                 <incipit>Conclusio prima: licet nulla creatura racionalis</incipit>
             </msItem>
-            <msItem>
+            <msItem xml:id="item65">
                 <locus>37va</locus>
                 <questionTitle>Notata quaedam ad quaestiones</questionTitle>
             </msItem>
-            <msItem>
+            <msItem xml:id="item66">
                 <locus>38r</locus>
                 <questionTitle>Utrum anime Christi collata fuerit summa gracia possibilis creature </questionTitle>
             </msItem>
-            <msItem>
+            <msItem xml:id="item67">
                 <locus>38r-40r</locus>
                 <questionTitle>Utrum aliqua gens virtute legis nature possit iuste et recte vivere</questionTitle>
                 <incipit>Apostolus inquit gentes que legem non habent...</incipit>
                 <explicit>...vel esse meritorium principalius habet a gracia etc.</explicit>
             </msItem>
-            <msItem>
+            <msItem xml:id="item68">
                 <locus>40r-v</locus>
                 <questionTitle>Magister <name>Nicolaus Dinkelspül</name> respondit ad illam <mentioned>Utrum stante unione yppotetica nature humane ad divinam stare possit naturam humanam communicare beatifica visione</mentioned>. Utrum panis possit transsubstanciari in essenciam Dei sicut potest in corpus Dei sive Christi</questionTitle>
                 <incipit>Respondetur quod non...</incipit>
                 <explicit>...sive elevacione vel spirituali beatificacione</explicit>
             </msItem>
-            <msItem>
+            <msItem xml:id="item69">
                 <locus>40v-43v</locus>
                 <questionTitle>Utrum pro culpa originali debeatur sola carencia divine visionis pro pena</questionTitle>
                 <incipit>Nota ad raciones hoc sicut per verum hominem...</incipit>
                 <explicit>...quia nescio utrum sit conforme dictis doctorum etc.</explicit>
             </msItem>
-            <msItem>
+            <msItem xml:id="item70">
                 <locus>40ra</locus>
                 <questionTitle>Notata varia, inter quae <name>Henrici de Hassia</name></questionTitle>
             </msItem>
-            <msItem>
+            <msItem xml:id="item71">
                 <locus>40va</locus>
                 <questionTitle>Themata quaestionum 35</questionTitle>
             </msItem>
-            <msItem>
+            <msItem xml:id="item72">
                 <locus>41ra-v</locus>
                 <questionTitle>Utrum aliquem dampnari pro culpa originali sit consonum divine iusticie et misericordie</questionTitle>
                 <incipit>Conclusio prima: sicut parvulis decedentibus spiritualiter spiritualiter renatis vita largitur eterna...</incipit>
                 <explicit>Quere in alia parte cedule post duo folia magis de peccato originali.</explicit>
             </msItem>
-            <msItem>
+            <msItem xml:id="item73">
                 <locus>43ra-v</locus>
                 <questionTitle>Nota de peccato originali</questionTitle>
             </msItem>
-            <msItem>
+            <msItem xml:id="item74">
                 <locus>43v-44v</locus>
                 <questionTitle>Magistri <name>Iohannis Berwardi</name>. Utrum reprobacio et predestinacio sint opposita respectu racionalis creature immediata</questionTitle>
                 <incipit>Utrum Deus sit racionalis causa reprobacionis et si sic tunc dampnacio non est homini imputabilis</incipit>
                 <explicit>...de hoc est totum capitulum nonum ad Romanos. Deo gracias. De illa materia quere post in quarto folio sequenti.</explicit>
             </msItem>
-            <msItem>
+            <msItem xml:id="item75">
                 <locus>44v-45r</locus>
                 <questionTitle>Ad illam questionem ego respondi in aula magistri anno domini 1395 in vigilia Augustini: utrum fides katholica stare possit cum creditorum clara apparencia</questionTitle>
                 <incipit>Iste articulus tantum unus Deus est est demonstrabilis...</incipit>
                 <explicit>...quod oportet ad distinccionem credere I <title>Elencorum</title>.</explicit>
             </msItem>
-            <msItem>
+            <msItem xml:id="item76">
                 <locus>44ra</locus>
                 <p>empty</p>
             </msItem>
-            <msItem>
+            <msItem xml:id="item77">
                 <locus>44va</locus>
                 <questionTitle>H.H. nota de apprehensionibus</questionTitle>
             </msItem>
-            <msItem>
+            <msItem xml:id="item78">
                 <locus>45v</locus>
                 <questionTitle>Magistri <name>Lienhardi</name>. Utrum voluntas possit peccare sine previo iudicii errore</questionTitle>
                 <incipit>Capiatur primum eleccio Luciferi quam peccavit peto unde fuerit mala...</incipit>
                 <p>Supplement to 48v; the same topic at 56r</p>
             </msItem>
-            <msItem>
+            <msItem xml:id="item79">
                 <locus>45v-46r</locus>
                 <questionTitle>Utrum sola intencio sine opere exteriori sufficiat ad meritum vite eterne</questionTitle>
                 <incipit>Nota quod volicio est meritoria vite eterne cum procedat ex gracia cum ceteris circumstanciis...</incipit>
                 <explicit>...et per consequens perior. Domine non secundum peccata nostra facias nobis.</explicit>
                 <p>Same topic at 57r-v, arguments at 61r-v</p>
             </msItem>
-            <msItem>
+            <msItem xml:id="item80">
                 <locus>46r-v</locus>
                 <questionTitle>Utrum crescente cupiditate decrescat caritas et econtra</questionTitle>
                 <incipit>Si differatur primum instans culpe mortalis sit hoc a, vel in a instanti caritas precedens est vel non...</incipit>
                 <explicit>...et sic non sequitur quod propter sola venialia homo dampnaretur.</explicit>
                 <p>See the corresponding topic 60r</p>
             </msItem>
-            <msItem>
+            <msItem xml:id="item81">
                 <locus>46v-47r</locus>
                 <questionTitle>Utrum essencia generat vel generatur</questionTitle>
                 <incipit>Primo Pater generat vel est generans sed omnis Pater est essencia...</incipit>
                 <explicit>...quod Pater non est essencia vel quod essencia non est Pater.</explicit>
             </msItem>
-            <msItem>
+            <msItem xml:id="item82">
                 <locus>47r</locus>
                 <questionTitle>Utrum Filius sit sapiens sapiencia genita</questionTitle>
                 <incipit>Probatur quod Pater non est sapiencia ingenita...</incipit>
             </msItem>
-            <msItem>
+            <msItem xml:id="item83">
                 <locus>47r-48r</locus>
                 <questionTitle>Utrum sint tantum quinque nociones in divinis</questionTitle>
                 <incipit>Conclusio prima: ingenitum licet sit privativum...</incipit>
                 <explicit>...immo alius Pater alius Filius et alius Spiritus Sanctus.</explicit>
             </msItem>
-            <msItem>
+            <msItem xml:id="item84">
                 <locus>48r</locus>
                 <questionTitle>Nota de predestinacione</questionTitle>
                 <incipit>si querit aliquis laycus quare Deus creavit unum quod scit et prescivit dampnandum, potest sibi sic responderi primo quod fecit ad declarationem iusticie...</incipit>
             </msItem>
-            <msItem>
+            <msItem xml:id="item85">
                 <locus>48r-v</locus>
-                <questionTitle><name>Robertus Holcot</name>, in Sap. 3,9, exc. Ex Holkot <mentioned>Qui confidunt in illum</mentioned></questionTitle>
+                <questionTitle><name>Robertus Holcot</name>, in Sap. 3,9, exc. Ex <name>Holkot</name> <mentioned>Qui confidunt in illum</mentioned></questionTitle>
                 <incipit>Circa quod nota quod veritatibus theologicis indigemus in presenti...</incipit>
                 <explicit>...sicut dicit <name>Magister</name> libro primo, d. 43, c. 4 <quote>Qui confidunt in illum</quote>.</explicit>
                 <bibl>
-                    <author>F. Stegmüller</author>
+                    <modernAuthor>F. Stegmüller</modernAuthor>
                     <title>Rep.bibl. 5, 7416</title>
                     <edition>Print (unabridged)</edition>
                     <pubPlace>Basel</pubPlace>
@@ -568,7 +566,8 @@
                 </bibl>
             </msItem>
         </msContents>
-   </msDesc>
-</xs:schema>
+</msDesc>
+
+
 
 
