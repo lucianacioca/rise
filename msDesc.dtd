@@ -5,19 +5,25 @@
 <!ELEMENT repository (#PCDATA)>
 <!ELEMENT idno (#PCDATA)>
 <!ELEMENT msContents (msItem*)>
-<!ELEMENT msItem (locus*, author*, questionTitle*, incipit*, explicit*, bibl*, p*)>
+<!ELEMENT msItem (locus*, author*, add*, questionTitle*, incipit*, explicit*, add*, bibl*, p*)>
 <!ATTLIST msItem xml:id ID #REQUIRED>
 <!ATTLIST msItem type CDATA #IMPLIED>
 <!ELEMENT locus (#PCDATA)>
 <!ELEMENT author (#PCDATA)>
-<!ELEMENT questionTitle (#PCDATA)>
-<!ELEMENT incipit (#PCDATA)>
-<!ELEMENT explicit (#PCDATA)>
-<!ELEMENT bibl (modernAuthor*, title*, edition*, pubPlace*, date*, num*, p*)>
+<!ELEMENT questionTitle (#PCDATA|name|title|quote|mentioned|add)*>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT quote (#PCDATA)>
+<!ATTLIST quote type CDATA #IMPLIED>
+<!ELEMENT mentioned (#PCDATA)>
+<!ELEMENT incipit (#PCDATA|name|title|quote|mentioned|add)*>
+<!ELEMENT explicit (#PCDATA|name|title|quote|mentioned|add)*>
+<!ELEMENT add (#PCDATA)>
+<!ATTLIST add place CDATA #IMPLIED>
+<!ELEMENT bibl (#PCDATA|modernAuthor|title|edition|pubPlace|date|num|p)*>
 <!ELEMENT modernAuthor (#PCDATA)>
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT edition (#PCDATA)>
 <!ELEMENT pubPlace (#PCDATA)>
 <!ELEMENT date (#PCDATA)>
 <!ELEMENT num (#PCDATA)>
-<!ELEMENT p (#PCDATA)>
+<!ELEMENT p (#PCDATA|name|title|quote|mentioned|add)*>
