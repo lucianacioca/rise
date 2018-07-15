@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?xml-stylesheet href="MsDesc.xsl" type="text/xsl"? version="2.0"?>
+<?xml-stylesheet href="MsDesc.xsl" type="text/xsl" version="2.0"?>
 <!DOCTYPE msDesc SYSTEM "msDesc.dtd">
 <msDesc>
         <msIdentifier>
@@ -33,7 +33,7 @@
             <msItem xml:id="item3">
                 <locus>2v-3v</locus>
                 <author>Iohannes Berwardus</author>
-                <questionTitle>M. <name>Iohanni Berwardi</name>Utrum eadem natura creata potuit assumi a pluribus personis divinis</questionTitle>
+                <questionTitle>Utrum eadem natura creata potuit assumi a pluribus personis divinis</questionTitle>
                 <incipit>Et arguitur quod non; illud quod sufficienter ostendit aliquam naturam esse illimitatam seu immensam, hoc non potest attribui nature create.</incipit>
                 <explicit>Secunda pars patet supponendo quod verbum dimittat econverso humanitates omnes quas assumpsit excepta prima</explicit>
                 <add place="below">Utrum sacramentum eukaristie sit maioris efficacie ceteris sacramentis ecclesie</add>

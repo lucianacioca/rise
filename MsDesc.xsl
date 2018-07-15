@@ -1,9 +1,10 @@
 <?xml version="1.0"?>
 <xsl:stylesheet version="2.0"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"> 
-<xsl:template match="/">
+<xsl:template match="msDesc">
         <html>
             <body>
+                <h2>Manuscript Basel A X 44 Question List</h2>
                 <table>
                     <tr>
                         <th>Settlement</th>
@@ -24,8 +25,8 @@
                         </tr>
                     </xsl:for-each>>
                 </table>
-                <table>
-                    <tr>
+                <table border="1">
+                    <tr bgcolor="#f4f4f7">
                         <th>Locus</th>
                         <th>Author</th>
                         <th>Question title</th>
