@@ -14,8 +14,9 @@
             </msItem>
 
 
-<msItem>
+<msItem xml:id="">
                 <locus></locus>
+                <author></author>
                 <questionTitle></questionTitle>
                 <incipit></incipit>
                 <explicit></explicit>

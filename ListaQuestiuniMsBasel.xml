@@ -10,7 +10,7 @@
         <msContents>
             <msItem xml:id="item1">
                 <locus>1r-1v</locus>
-                <author>Stephanus</author>
+                <author>Stephanus</author> <!-- de uniformizat numele de autori -->
                 <questionTitle>Utrum in latitudine creabilium specierum sit dare summam citra deum</questionTitle>
                 <incipit>Arguitur quod sic, quia in latitudine creatarum specierum est dare summam citra deum, igitur in latitudine etc.</incipit>
                 <explicit>Quod sequitur ex tota positione quod questio est falsa simpliciter, ut proponitur</explicit>
@@ -461,6 +461,7 @@
             </msItem>
             <msItem xml:id="item68">
                 <locus>40r-v</locus>
+                <author>Nicolaus Dinkelspül</author>
                 <questionTitle>Magister <name>Nicolaus Dinkelspül</name> respondit ad illam <mentioned>Utrum stante unione yppotetica nature humane ad divinam stare possit naturam humanam communicare beatifica visione</mentioned>. Utrum panis possit transsubstanciari in essenciam Dei sicut potest in corpus Dei sive Christi</questionTitle>
                 <incipit>Respondetur quod non...</incipit>
                 <explicit>...sive elevacione vel spirituali beatificacione</explicit>
@@ -564,6 +565,167 @@
                     <date>1586</date>
                     <num>125-127</num>
                 </bibl>
+            </msItem>
+            <msItem type="description" xml:id="item86">
+                <locus>48v-49v</locus>
+                <questionTitle>Quaestiones et notae quaedam</questionTitle>
+            </msItem>
+            <msItem xml:id="item87">
+                <locus>48v</locus>
+                <author></author>
+                <questionTitle>Utrum cum unione ypotetica nature humane ad divinam stare possit ipsam humanam carere divina visione. Aliqui dicunt et communius quod ymmo omnis creatura potest deo uniri</questionTitle>
+                <p>See the same topic 54r</p>
+            </msItem>
+            <msItem xml:id="item88">
+                <locus>48v</locus>
+                <p>Supplement to Quaestio 45v</p>
+            </msItem>
+            <msItem xml:id="item89">
+                <locus>49r</locus>
+                <questionTitle>Evidencius est causam primam esse contradictorie liberam in causando quam aliquam de causis secundis liberam esse in agendo quia utique evidencius</questionTitle>
+            </msItem>
+            <msItem xml:id="item90">
+                <locus>49r</locus>
+                <questionTitle>Nota quod cum anima sit actus corporis suum esse non est perfectum. separata a corpore nec per consequens sua operacio </questionTitle>
+            </msItem>
+            <msItem xml:id="item91">
+                <locus>49r-v</locus>
+                <questionTitle>Sanctus idem est quod firmus et spiritus domini firmat interius in vero </questionTitle>
+            </msItem>
+            <msItem xml:id="item92">
+                <locus>49v</locus>
+                <author>Henricus Langenstein de Hassia</author>
+                <questionTitle>Nota ex lectura quadam Henrici Langentein de Hassia</questionTitle>
+                <incipit>Magister Henricus de H. Nota quod 3x est differencia visionis intuitive Una quando obiectum movet ad sui cognicionem immediate sine medio...</incipit>
+                <explicit>...quamvis esse possit. Hec ex lectura magistri Henrici de Hassia.</explicit>
+            </msItem>
+            <msItem xml:id="item93">
+                <locus>49v</locus>
+                <questionTitle>Notae de essentia divina</questionTitle>
+                <incipit>Nota quod processionum una non est posterior alia in divinis...</incipit>
+                <explicit>...ex naturali inclinacione sua et aliis per experienciam etc.</explicit>
+                <p>The first three sections are drawn with <mentioned>h.h.</mentioned></p>
+            </msItem>
+            <msItem type="description" xml:id="item94">
+                <locus>50r-58v</locus>
+                <author>Henricus de Oyta</author>
+                <questionTitle>Quaestiones et notae variae. Utrum tantum unum deum esse sit evidenter naturali racione convincibile. In primo articulo qui est de hoc an philosophi racioni naturali innitentes</questionTitle>
+            </msItem>
+            <msItem xml:id="item95">
+                <locus>50r-51r</locus>
+                <questionTitle>Utrum omnis potestas sensitiva sit alicuius obiecti elicitive cognitiva </questionTitle>
+                <incipit>Et arguitur primo quod non quia aliqua animalia sunt habencia solum unum sensum...</incipit>
+                <explicit>...quia ipsum est cognoscibile sensu exteriori. 3m quaestio ut proponitur est falsa.</explicit>
+            </msItem>
+            <msItem xml:id="item96">
+                <locus>50ra</locus>
+                <author>Henricus Langenstein de Hassia</author>
+                <questionTitle>Nota de deo</questionTitle>
+            </msItem>
+            <msItem xml:id="item97">
+                <locus>50va/58rb</locus>
+                <questionTitle>Utrum qualiter christus ascendit in caelum taliter venturus sit ad iudicium</questionTitle>
+                <incipit>Conclusio prima: licet corpus christi virtute propria naturali non potuerit celos ascendere</incipit>
+                <p>At 58rb: hanc quaestionem determinat H. de gandavo 14. quodlibet q. 2</p>
+            </msItem>
+            <msItem xml:id="item98">
+                <locus>51r</locus>
+                <author></author>
+                <questionTitle>Nota de noticia conclusionis</questionTitle>
+                <incipit>Nota quod genus nostrarum conclusionum ex primis principiis deducibilium videtur se habere in esse nostrum sicut radius lucis</incipit>
+            </msItem>
+            <msItem xml:id="item99">
+                <locus>51r</locus>
+                <author>Nicolaus Dinkelspül</author>
+                <questionTitle>De posicione  m. Nicolai de Dinkelspuel</questionTitle>
+                <incipit>Patet quintum corollarium quod fides est de transcendentibus naturalem racionem...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item100">
+                <locus>51r-v</locus>
+                <questionTitle>Dubium utrum angelus possit eciam se anime unire secundum suam essenciam sanctificantem eadem specie unionis qua spiritus sanctus unit se ei vel alia persona divina</questionTitle>
+                <incipit>Videtur quod  sic cum nullam videatur repugnanciam includere angelum secundum suam essenciam sic illabi anime...</incipit>
+            </msItem>
+            <msItem xml:id="item101">
+                <locus>51v</locus>
+                <author>Thomas de Clivis</author>
+                <questionTitle>Utrum ad salutem humani generis requiratur caritas</questionTitle>
+                <incipit>Quod non quia observacio mandatorum dei sufficit ad salutem...</incipit>
+                <bibl>
+                    <modernAuthor>Wohl Stephanus de Enczensdorf</modernAuthor>
+                    <title>Acta facultatis artium universitatis Vindobonnensis</title>
+                    <edition>P. Uiblein, Publikationen des Instituts fur osterreichische Geschichtsforschung 6, 2</edition>
+                    <pubPlace>Graz</pubPlace>
+                    <date>1968</date>
+                    <num>a.a.0. S. 565</num>
+                </bibl>
+            </msItem>
+            <msItem xml:id="item102">
+                <locus>52r-v</locus>
+                <author>Henricus de Hassia</author>
+                <questionTitle>Soluciones sunt magistri Henrici de H. Nota quod inter modos dicendi est unus communior quod caritas comprimeret actus et sit una tantum species </questionTitle>
+            </msItem>
+            <msItem xml:id="item103">
+                <locus>52v-53r</locus>
+                <questionTitle>Utrum voluntas creata tam fruicione quam usu immediate per raciones obiectivales distinctas in aliquam rem quae non est deus licite possit fieri </questionTitle>
+                <explicit>...non in genere cause finalis sed efficientis.</explicit>
+            </msItem>
+            <msItem xml:id="item104">
+                <locus>52ra</locus>
+                <questionTitle>Nota varia de dilectione </questionTitle>
+                <p>Called <mentioned>magister henricus de oeta</mentioned> and <mentioned>h.h.</mentioned></p>
+            </msItem>
+            <msItem xml:id="item105">
+                <locus>52va</locus>
+                <questionTitle>Nota de incarnacione christi</questionTitle>
+                <p>Called <mentioned>h.h.</mentioned></p>
+            </msItem>
+            <msItem xml:id="item106">
+                <locus>52rb</locus>
+                <author>Henricus Langenstein de Hassia</author>
+                <questionTitle>Notae variae</questionTitle>
+                <p> H.H. Experiencia docet quod homines sepe difficiliora et molestiora lete paciuntur ...(de amore vano).</p>
+            </msItem>
+            <msItem xml:id="item107">
+                <locus>55vb</locus>
+                <questionTitle>Nota producere capitur dupliciter. Nota ad venandum sensum literalem sacre scripture</questionTitle>
+            </msItem>
+            <msItem xml:id="item108">
+                <locus>53r-v</locus>
+                <questionTitle>Utrum divinis personis conveniant disincte raciones fruicionis vel tantum una que ipsis et essencie sit communis</questionTitle>
+                <incipit>Nota quod racio fruicionis vel tantum una que ipsis et essencie sit communis. Nota quod racio fruicionis in genere est bonitas...</incipit>
+                <explicit>...quia sit a binarius hominis et asini etc.</explicit>
+                <p>The third conclusio at 55v</p>
+            </msItem>
+            <msItem xml:id="item109">
+                <locus>53v-54r</locus>
+                <author>Henricus de Oyta</author>
+                <questionTitle>Ex dictis magistri Henrici de Oeta. Nota quod ille articulus, tantum unus est deus, est naturali racione investigabilis </questionTitle>
+            </msItem>
+            <msItem xml:id="item110">
+                <locus>54r-v</locus>
+                <questionTitle>Utrum cum unione ypotetica naturae humane ad divinam possit stare ipsam humanam carere beatifica visione</questionTitle>
+                <incipit>Quod sic arguitur, quia stante unione creature racionalis ad deum...</incipit>
+                <explicit>...quod non convenit irracionali nature.</explicit>
+                <p>The heading <mentioned>Magistri nicolai de dinkelspuel</mentioned> deleted; [added: cf. the same topic 48v]</p>
+            </msItem>
+            <msItem xml:id="item111">
+                <locus>54v-55r</locus>
+                <questionTitle>Utrum reprobacio et predestinacio sint opposita respectu racionlis creature immediata</questionTitle>
+                <incipit>Arguitur quod non, quia, si sic, tunc omnis homo de necessitate salvaretur...</incipit>
+                <explicit>...nec eciam in privacione glorie etc.</explicit>
+                <p>The same topic at 43v</p>
+            </msItem>
+            <msItem xml:id="item112">
+                <locus>55r-v</locus>
+                <author></author>
+                <questionTitle>Nota de obiecto</questionTitle>
+                <incipit>Sciendum quod obiectum fidei vel alterius noticie assensive cive evidentis sive inevidentis principaliter et proprie...</incipit>
+                <explicit>...est res que proporcionaliter opinative  cognoscitur. hec Reverendus  magister <name>Henricus de Oeta</name>.</explicit>
+            </msItem>
+            <msItem xml:id="item113">
+                <locus>55v</locus>
+                <p>Continued to 53r-v</p>
             </msItem>
         </msContents>
 </msDesc>
