@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <?xml-stylesheet href="MsDesc.xsl" type="text/xsl" version="2.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lucianacioca/rise/master/ListaQuestiuniMsBasel.xml" type="application/xml"?>
 <!DOCTYPE msDesc SYSTEM "msDesc.dtd">
 <msDesc>
         <msIdentifier>
