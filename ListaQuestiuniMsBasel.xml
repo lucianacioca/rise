@@ -1178,9 +1178,213 @@
             <msItem xml:id="item185">
                 <locus>92r-v</locus>
                 <author></author>
-                <questionTitle>Nota de inspiractione. An deus unomodo vel simili inspiret bonos et malos</questionTitle>
+                <questionTitle>Nota de inspiracione. An deus unomodo vel simili inspiret bonos et malos</questionTitle>
                 <incipit>Pro quo est advertendum quod intelligencia humana multis modis supernaturaliter iuvatur...</incipit>
                 <explicit>...et omne quod futurum esse duxerunt eveniet. H.H.</explicit>
+            </msItem>
+            <msItem xml:id="item186">
+                <locus>97r</locus>
+                <author></author>
+                <questionTitle>Nota quare Deus non perpetuaverit speciem humanam secundum eadem individua. H. H.</questionTitle>
+                <incipit>Quaeritur cum creator Deus ab inicio potuerit creare sub qualibet specie animalium...</incipit>
+            </msItem>
+            <msItem xml:id="item187">
+                <locus>97v-98r</locus>
+                <author></author>
+                <questionTitle>Nota de beata virgine. H.H. Utrum virgo Maria contriverit laudabilius capud serpentis et magis meritorie omnibus ceteris</questionTitle>
+                <incipit>Et arguitur quod non, quia ubi est maior difficultas et resistencia...</incipit>
+                <explicit>Et per hec patet quid dicendum ad raciones ante oppositas. H. H.</explicit>
+            </msItem>
+            <msItem xml:id="item188">
+                <locus>97va/107ra</locus>
+                <author></author>
+                <questionTitle>Nota ad quaestionem quandam</questionTitle>
+                <p>The other side is empty.</p>
+            </msItem>
+            <msItem xml:id="item189">
+                <locus>98r-99v</locus>
+                <author></author>
+                <questionTitle>Nota de predestinacione H.H.</questionTitle>
+                <incipit>Multiplicabo conceptus tuos (cf. Gen 3. 16). Circa quod est sciendum quod si genus hominum in statu innocencie permansisset...</incipit>
+                <explicit>...de quibus uno modo patet inter literam que dicit ‘multiplicabo conceptus tuos’. H. H.</explicit>
+            </msItem>
+            <msItem xml:id="item190">
+                <locus>99v</locus>
+                <author>Henricus Langenstein de Hassia</author>
+                <questionTitle>Nota quare continuacio speciei rebus sit indita. Queritur quare vis generativa vel individuorum per geeracionem multiplicativa a creatore sit rebus indita</questionTitle>
+                <incipit>Respondetur quod hoc fecit Deus 4or vel quinque De causis...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item191">
+                <locus>99v</locus>
+                <author></author>
+                <questionTitle>Nota de sciencia Adam</questionTitle>
+                <incipit>Dicit quod Adam ante peccatum non cognoverit malum...</incipit>
+                <explicit>...quam circa honestates et res spirituales H. H.</explicit>
+            </msItem>
+            <msItem xml:id="item192">
+                <locus>100</locus>
+                <author></author>
+                <questionTitle>Nota de eclipsi (!) solis</questionTitle>
+                <incipit>Fecit Deus duo luminaria magna id est solem et lunam. Magna quidem virtute quia eorum influencie et effectus...</incipit>
+                <explicit>...quia ex longitudine distancie res apparet minor. Igitur. H. Hh.</explicit>
+            </msItem>
+            <msItem xml:id="item193">
+                <locus>100r-v</locus>
+                <author></author>
+                <questionTitle>Nota de illuminacione lune a sole. H. H.</questionTitle>
+                <incipit>Ut luceant in firmamento celi (Gen. 1. 15) scilicet se ibi illuminando et diversis...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item194">
+                <locus>100v-101v</locus>
+                <author></author>
+                <questionTitle>De incarnacione Christi. H. Oy. Utrum si homo non peccasset nihilominus Deus incarnatus fuisset</questionTitle>
+                <incipit>Pro quo sciendum secundum Thomam...</incipit>
+                <explicit>...si circumscribetur lapsus humane nature prout dictum est. H. Oy.</explicit>
+            </msItem>
+            <msItem xml:id="item195">
+                <locus>101v-103r</locus>
+                <author></author>
+                <questionTitle>Nota de penitencia. H. Oy.</questionTitle>
+                <incipit>Propterea exspectat dominus ut misereatur vestri (Is. 30. 18) ubi dicit Glosa quasi hec evenient nisi penitenciam egeritis ...</incipit>
+                <explicit>...disciplinam domini fili mi ne abicias. H. Oy.</explicit>
+            </msItem>
+            <msItem xml:id="item196">
+                <locus>103r-v</locus>
+                <author></author>
+                <questionTitle>Nota quod ex sola divina pietate aliqui salvantur et aliqui dampnantur ex iusticia</questionTitle>
+                <incipit>Augustinus 21 De civitate Dei dicit Quod in Adam universa generis humani massa dampnata fuerit...</incipit>
+                <explicit>...racionalem creaturam ad se vertere consuevit. Ut habetur 64 folio parvi libri. H.H.</explicit>
+            </msItem>
+            <msItem xml:id="item197">
+                <locus>103v</locus>
+                <author></author>
+                <questionTitle>Nota de obediencia</questionTitle>
+                <incipit>Quod quamvis inter fiddeles veteris testamenti Abraham obedierit Deo in re difficiliori verumtamen plures fidelium non tunc magis obedierint Deo intensive et extensive. Primo probat quia non legitur aliquem sub veteri testamento in facto difficiliori Deo obedivisse...</incipit>
+                <explicit>...Ex istis patet responsio ad questionem. H.H.</explicit>
+            </msItem>
+            <msItem xml:id="item198">
+                <locus>103ra-v</locus>
+                <author>Henricus Langenstein de Hassia</author>
+                <questionTitle>Utrum implecio precepti negativi sit facilior quam precepti activi. Pro discussione materie huius questionis </questionTitle>
+            </msItem>
+            <msItem xml:id="item199">
+                <locus>104r</locus>
+                <author></author>
+                <questionTitle>Eva prius punita fuit quam Adam. H. H. Queritur an Eva aliquibus penis prius punita fuerit quam Adam eo quod prius peccaverit</questionTitle>
+                <incipit>Respondetur quod si omnis culpa in quam indignificat et vilificat habentem...</incipit>
+                <explicit>...qui ab intrinseca et extrinseca hoc facere potest. H.H.</explicit>
+            </msItem>
+            <msItem xml:id="item200">
+                <locus>104r</locus>
+                <author></author>
+                <questionTitle>Utrum Deus aliquam essenciam racionale potuerit facere perfecte et plenarie ad ymaginem suam H.H.</questionTitle>
+                <incipit>Arguitur quod sic. Istius contradiccionis Deus potest facere creaturam...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item201">
+                <locus>104v-105r</locus>
+                <author></author>
+                <questionTitle>Utrum quelibet creatura racionalis videns clare divina essenciam videat ex hoc benedicte trinitatis quamlibet personam</questionTitle>
+                <incipit>Arguitur quod non. Angeli beati vident clare divinam essenciam...</incipit>
+                <explicit>...non tamen sciverunt filium esse incarnatum et ita duxerunt etc.</explicit>
+                <p>Replicationes to 108r</p>
+            </msItem>
+            <msItem xml:id="item202">
+                <locus>105r</locus>
+                <author></author>
+                <questionTitle>Utrum Deus sit omnium futurorum prescius</questionTitle>
+                <incipit>Contra 2am conclusionem et proposicionem eius. Divina essencia probatur negative et diversive...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item203">
+                <locus>105r-v</locus>
+                <author></author>
+                <questionTitle>Utrum divina potencia potuerit facere aliquam creturam racionalem inpeccabilem per naturam</questionTitle>
+                <incipit>Quod sic arguitur creaturam esse vel fuisse inpeccabilem...</incipit>
+                <explicit>...non plus repugnat condicioni essenciali hominis quam alterum.</explicit>
+                <p>The conclusion at the bottom</p>
+            </msItem>
+            <msItem xml:id="item204">
+                <locus>105v-106r</locus>
+                <author></author>
+                <questionTitle>Utrum creator et creatura sint similiter adorandi</questionTitle>
+                <incipit>Arguitur quod sic. Beate Virginis est exhibendus cultus latrie...</incipit>
+                <explicit>...non debet fieri similiter omnimode exhibicio reverencie. Patet ex precedentibus.</explicit>
+            </msItem>
+            <msItem xml:id="item205">
+                <locus>106r</locus>
+                <author></author>
+                <questionTitle>Nota quid sit latrie</questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item206">
+                <locus>106v-107r</locus>
+                <author></author>
+                <questionTitle>Utrum voluntas divina sit racione omnium producibilium primaria causa</questionTitle>
+                <incipit>Arguitur quod non, quia multa mala fiunt...</incipit>
+                <explicit>...an ipsum produceret c.</explicit>
+            </msItem>
+            <msItem xml:id="item207">
+                <locus>107r-108r</locus>
+                <author></author>
+                <questionTitle>Utrum potencia creandi potuerit ab eterno creature communicari</questionTitle>
+                <incipit>Quod non, quia dicit Hugo De sacramentis...</incipit>
+                <explicit>...Deo generali influxu coagente etc.</explicit>
+            </msItem>
+            <msItem xml:id="item208">
+                <locus>107a</locus>
+                <p>s. 97a</p>
+            </msItem>
+            <msItem xml:id="item209">
+                <locus>108r-v</locus>
+                <author></author>
+                <questionTitle>Replicaciones. Utrum quelibet creatura racionalis videns clare divinam essenciam videat ex hoc benedicte Trinitatis quamlibet partem</questionTitle>
+                <incipit>Contra 3am conclusionem. Ipsa non potest convinci...</incipit>
+                <explicit>...quia talis racio abstracta conveniret omnibus personis.</explicit>
+                <p>The quaestio 104v</p>
+            </msItem>
+            <msItem xml:id="item210">
+                <locus>109r-v</locus>
+                <author></author>
+                <questionTitle>Notae variae</questionTitle>
+                <questionTitle>Nota quod duplex est institucio coniugii</questionTitle>
+                <questionTitle>Nota de 3ci precepto</questionTitle>
+                <questionTitle>De 3bus bonis matrimonii</questionTitle>
+                <questionTitle>De prophetia Danielis</questionTitle>
+                <questionTitle>De Ysaia</questionTitle>
+                <questionTitle>Nota de filiis Iacob</questionTitle>
+                <questionTitle>Nota quod Deus spiritualia et temporalia subtrahit propter peccatum</questionTitle>
+                <questionTitle>Nota de predicatoribus</questionTitle>
+                <questionTitle>Nota de invencione arcium</questionTitle>
+                <questionTitle>De sciencia iuris</questionTitle>
+                <questionTitle>Nota quot modis sumatur iste terminus ‘philosophia’</questionTitle>
+                <p>The pieces 109v all with H. H. drawn</p>
+            </msItem>
+            <msItem xml:id="item211">
+                <locus>110r-112r</locus>
+                <author>Henricus Langenstein de Hassia</author>
+                <questionTitle>Nota de tribus gradibus virtutum</questionTitle>
+                <incipit>Nota quod 3 sunt gradus virtutum H. H. Notandum est quod tres gradus virtutum sive perfeccionis et imperfeccionis se habentes distingui possunt. Primus est earum que ex habitu supernaturali...</incipit>
+                <explicit>...hoc premisso videamus qualiter optimus mundi rector electos. Alibi habetur in alio sexterno.</explicit>
+                <p>110r above: Scriptum anno domini 1397</p>
+            </msItem>
+            <msItem xml:id="item212">
+                <locus>112r-113v</locus>
+                <author>Henricus Langenstein de Hassia</author>
+                <questionTitle>Notata ex lectura quadam</questionTitle>
+                <questionTitle>Nota de anima Christi superbenedicta</questionTitle>
+                <questionTitle>Nota de noticia anime Christi</questionTitle>
+                <questionTitle>Nota de cognicione divina</questionTitle>
+                <questionTitle>Utrum sicut circa divinum intellectum coincidunt scire et assentire ita apprehendere et assentire</questionTitle>
+                <questionTitle>De statu beatorum quo ad fidem scienciam et opinionem</questionTitle>
+                <questionTitle>De peccato infidelitatis</questionTitle>
+                <questionTitle>Nota de industria quorundam animalium</questionTitle>
+                <questionTitle>Nota de noticia Dei</questionTitle>
+                <questionTitle>Nota unde oriantur primarie contingencie</questionTitle>
+                <questionTitle>Nota de ordine cognicionum</questionTitle>
             </msItem>
         </msContents>
 </msDesc>
