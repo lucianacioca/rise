@@ -1386,6 +1386,646 @@
                 <questionTitle>Nota unde oriantur primarie contingencie</questionTitle>
                 <questionTitle>Nota de ordine cognicionum</questionTitle>
             </msItem>
+            <msItem type="description" xml:id="item213">
+                <locus>114r-v</locus>
+                <author></author>
+                <questionTitle>Quaestiones, collationes, notae variae</questionTitle>
+            </msItem>
+            <msItem xml:id="item214">
+                <locus>114r</locus>
+                <author></author>
+                <questionTitle>Utrum aliquando fuerit licitum plures simul habere uxores</questionTitle>
+                <incipit>Et videtur quod non per Glosam Gen. 5...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item215">
+                <locus>114r</locus>
+                <author></author>
+                <questionTitle>Collacio dominice 3e adventus pro clero</questionTitle>
+                <incipit>Iudicabit in iusticia (Is. 11. 4) quota allegaciones que supra. Postquam predicta verba per socium meum dilectum deducta sunt...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item216">
+                <locus>114r</locus>
+                <author>Henricus de Hassia</author>
+                <questionTitle>Nota de condicionibus hominis ex racione nature intellectualia consequentis</questionTitle>
+                <incipit>Prima condicio homini consequens est de turpi perpetuo verecundari...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item217">
+                <locus>114v</locus>
+                <author></author>
+                <questionTitle>Dominica 3 adventus</questionTitle>
+                <incipit>Iudicabit in iusticia (Is. 11. 4). Pro cuius thematis introduccione moveo dubium. Qualiter debet esse in vita qui habet iudicare iniusticiam...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item218">
+                <locus>114v</locus>
+                <author></author>
+                <questionTitle>Ex lectura m. H. H.</questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+                <p>Piece about peccatum et poena</p>
+            </msItem>
+            <msItem xml:id="item219">
+                <locus>114v</locus>
+                <author>Henricus de Hassia</author>
+                <questionTitle>Nota de peccato</questionTitle>
+                <incipit>Deus de possibilibus seu contingibilibus semper facit aut fieri permitti quod melius est...</incipit>
+                <explicit>...per se vel per accidens. Igitur. H. H.</explicit>
+            </msItem>
+            <msItem xml:id="item220">
+                <locus>114v</locus>
+                <author></author>
+                <questionTitle>Nota quale suppositum dicit ly Christus</questionTitle>
+                <incipit>Christus dicit seu denotat personam filii Dei...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item221">
+                <locus>115r-v</locus>
+                <author></author>
+                <questionTitle>Utrum fides catholica stare possit cum creditorum clara apparencia</questionTitle>
+                <incipit>Arguitur primo quod non. Fides est non apparencium...</incipit>
+                <explicit>...absque repugnancia semper possunt simul stare. Igitur.</explicit>
+                <p>Including additions</p>
+            </msItem>
+            <msItem type="description" xml:id="item222">
+                <locus>115v-117v</locus>
+                <author></author>
+                <questionTitle>Quaestiones et notae variae</questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item223">
+                <locus>115v</locus>
+                <author></author>
+                <questionTitle>Nota de obiecto fidei</questionTitle>
+                <incipit>Nota quod obiectum fidei unomodo sumitur pro obiecto principali...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item224">
+                <locus>116r-v</locus>
+                <author>Henricus Langenstein de Oyta</author>
+                <questionTitle></questionTitle>
+                <incipit>Contra 2m corollarium 2e conclusionis. Illud potest a nobis sciri esse possibile de quo possumus naturaliter scire quod ad ipsum non sequitur impossibile...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item225">
+                <locus>116v</locus>
+                <author></author>
+                <questionTitle>Utrum fides compaciatur secum visionem spiritualem opinionem vel scienciam</questionTitle>
+                <incipit>Respondetur quod precise et adequate. Nota de diviciis spiritualibus … De iudeis quod cognoverint aliquid de Sancta Trinitate … Nota de quibusdam pomposis … Nota quod tota Trinitas operata est incarnacionem Christi … Isti sunt 12 filii Iacob</incipit>
+            </msItem>
+            <msItem xml:id="item226">
+                <locus>116ra-v</locus>
+                <author></author>
+                <questionTitle></questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+                <p>Additions to Henricus de Oyta 116r</p>
+            </msItem>
+            <msItem xml:id="item227">
+                <locus>117rb-v</locus>
+                <author></author>
+                <questionTitle>Nota varia</questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem type="description" xml:id="item228">
+                <locus>117r-121r</locus>
+                <author>Henricus Langenstein de Hasia</author>
+                <questionTitle>Notae variae</questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item229">
+                <locus>117r-v</locus>
+                <author></author>
+                <questionTitle>Nota de providencia divina</questionTitle>
+                <incipit>Quod si Deus est gubernator universi optimus sapientissimus atque potentissimus...</incipit>
+                <explicit>...se disposuit ventura esse. H.H.</explicit>
+            </msItem>
+            <msItem xml:id="item230">
+                <locus>117r-v</locus>
+                <author></author>
+                <questionTitle>Nota de dependencia </questionTitle>
+                <incipit>Dependere unam rem ab alia in esse et in agere...</incipit>
+                <explicit>...et non est substancia. H.H.</explicit>
+            </msItem>
+            <msItem xml:id="item231">
+                <locus>118r</locus>
+                <author></author>
+                <questionTitle>Nota de edificacione temple. Nota de duobus populis descendentibus a Esau et Iacob. Nota quod opinio de angelis scilicet quod plures sint eiusdem speciei est verisimilior. Nota quod ly apparencia sumitur 3r. Nota de persona ydemptica et non ydemptica</questionTitle>
+                <incipit></incipit>
+                <explicit>...et non est substancia. H.H.</explicit>
+            </msItem>
+            <msItem xml:id="item232">
+                <locus>118r</locus>
+                <author></author>
+                <questionTitle>Nota quare boni et mali sint in ecclesia</questionTitle>
+                <incipit>Dyabolus quantum potuit cooperatus fuit ut perfidi perdititi et perversi homines essent incorporate ecclesie...</incipit>
+                <explicit>...ad domesticos fidei. H.H.</explicit>
+            </msItem>
+            <msItem xml:id="item233">
+                <locus>118v</locus>
+                <author></author>
+                <questionTitle>Nota quod non licet quolibet modo ostendere innocenciam</questionTitle>
+                <incipit>Aliqui sunt modi quibus homines conati sunt certificari a deo de ocultis...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item234">
+                <locus>118v-119v</locus>
+                <author></author>
+                <questionTitle>Nota quare aliqui permittunt a deo spoliari </questionTitle>
+                <incipit>Nota quod tam agencium liberorum quam naturalium motus et effectus...</incipit>
+                <explicit>...ut patet in principio folii quod superius incipit ‘notandum est’. H. H.</explicit>
+            </msItem>
+            <msItem xml:id="item235">
+                <locus>120r</locus>
+                <author></author>
+                <questionTitle>De visionibus </questionTitle>
+                <incipit>Nota quid sit senciendum si alicui venire in mentem sine formidine cum assensu quod antichristus venire post tot annos...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item236">
+                <locus>120r-v</locus>
+                <author></author>
+                <questionTitle>Nota quod ex duplici auctoritate prenunciacio prophetarum credulitatem recepit</questionTitle>
+                <incipit>Quia et ex auctoritate...</incipit>
+                <explicit>...sub quibus locuciones dei pronunciantur. H.H.</explicit>
+            </msItem>
+            <msItem xml:id="item237">
+                <locus>120v-121r</locus>
+                <author></author>
+                <questionTitle>Nota de duabus civitatibus. Utrum a principio solum electi fuerint conversi ad christum</questionTitle>
+                <incipit>Respondetur quod hoc non debet alicui videri...</incipit>
+                <explicit>...non discutio. H.H.</explicit>
+            </msItem>
+            <msItem type="description" xml:id="item238">
+                <locus>121r-122v</locus>
+                <author></author>
+                <questionTitle>Notae variae</questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item239">
+                <locus>121r-v</locus>
+                <author></author>
+                <questionTitle>Nota de speciebus intellectualibus et quid requiratur ad cognicionem </questionTitle>
+                <incipit>Proposicio stat animam speciem apparicionis intre se vel extra se videre et non cognoscere cuius coloris sit responsiva. Patet, quia species apparicionis non representet eam ex vi cuiuscumque conformitatis...</incipit>
+                <explicit>...omne quod movet esse habet intentum.</explicit>
+            </msItem>
+            <msItem xml:id="item240">
+                <locus>121v-122v</locus>
+                <author></author>
+                <questionTitle>Nota de efficacia voluntatis</questionTitle>
+                <questionTitle>Nota de concursu cause prime cum 2a</questionTitle>
+                <questionTitle>Nota de bono et malo</questionTitle>
+                <questionTitle>Nota de exposicione sacre scripture</questionTitle>
+                <questionTitle>Nota de ira</questionTitle>
+                <questionTitle>Nota de musica</questionTitle>
+                <questionTitle>Nota de astronomia</questionTitle>
+                <questionTitle>Nota de alkimia</questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item241">
+                <locus>123r-124r </locus>
+                <author>Henricus Langenstein de Hasia</author>
+                <questionTitle>Ex lectura Magistri Henrici de Hassia doctoris egregii. Circa quod queritur que sint de racione very philosophi vel quod requiruntur ad hoc quod aliquis sit vel fuerit verus et laudabilis philosophus</questionTitle>
+                <incipit>Respondeo quod tria ex parte affectus...</incipit>
+                <explicit>...solvi et invalida ostendi, quare propositum.</explicit>
+                <p>Including a supplement.</p>
+            </msItem>
+            <msItem type="description" xml:id="item242">
+                <locus>124r-135</locus>
+                <author></author>
+                <questionTitle>Questiones et notae variae</questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item243">
+                <locus>124r-126v</locus>
+                <author></author>
+                <questionTitle>Contra posicionem m. Petri de Walse </questionTitle>
+                <incipit>Arguitur contra 2am partem conclusionis 2e et arguitur racione ante oppositum. In infinitum difficilius est aliquid ex nichilo etc. Ad illud respondetur 4or modis primo...</incipit>
+                <explicit>...et cum hec sit finita sequitur intentum.</explicit>
+            </msItem>
+            <msItem xml:id="item244">
+                <locus>126v-128r</locus>
+                <author>Petrus de Walse</author>
+                <questionTitle>Utrum Deus sit simpliciter conceptibilis et proprie diffinibilis</questionTitle>
+                <incipit>Quod non. Deus non est a nobis naturaliter pro statu huius vie cognoscibilis...</incipit>
+                <explicit>...Raciones sunt faciles hinc inde. Ave Maria gracia.</explicit>
+                <p>Including one nota de conceptionibus.</p>
+            </msItem>
+            <msItem xml:id="item245">
+                <locus>128v-130r</locus>
+                <author>Magister Michael</author>
+                <questionTitle>Utrum liberum arbitrium eque habeat ad bonum et ad malum</questionTitle>
+                <incipit>Pro declaracione terminorum in tytulo questionis positorum...</incipit>
+                <explicit>...et ad bonum surgere non possint etc.</explicit>
+                <p>Including some notae.</p>
+            </msItem>
+            <msItem xml:id="item246">
+                <locus>130v</locus>
+                <author></author>
+                <questionTitle>Nota de Annuciacione virginis Marie </questionTitle>
+                <incipit>Tota trinitatis fuit causa efficiens...</incipit>
+                <explicit>...stude humilitatem imitari et sufficiet tibi. Hec ille.</explicit>
+            </msItem>
+            <msItem xml:id="item247">
+                <locus>130v</locus>
+                <author></author>
+                <questionTitle>Nota de tribulacione </questionTitle>
+                <incipit>Bernardus: quecumque seviat tribulacio non te putes derelictum...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item248">
+                <locus>131r</locus>
+                <author></author>
+                <questionTitle>De humilitate virginis Marie </questionTitle>
+                <incipit>Bernardus in sermone de nativitate virginis gloriose...</incipit>
+                <explicit>...et exemplum salutis accipere. Hec Ambrosius.</explicit>
+                <p>Notae et excerpta de BMW</p>
+            </msItem>
+            <msItem xml:id="item249">
+                <locus>131v</locus>
+                <author></author>
+                <questionTitle>De passione Christi </questionTitle>
+                <incipit>Augustinus in dyalogo de passione domini...</incipit>
+                <explicit>...tamen saltem vestry miseremini.</explicit>
+            </msItem>
+            <msItem xml:id="item250">
+                <locus>132r</locus>
+                <author></author>
+                <questionTitle>Nota pro scribendo alicui </questionTitle>
+                <incipit>Gracias ago Deo meo in omni memoria vestri...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item251">
+                <locus>132r</locus>
+                <author></author>
+                <questionTitle>Nota de reversione anime</questionTitle>
+                <incipit>Helias clamavit ad dominum et dixit ‘Domine deus meus'...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item252">
+                <locus>132v</locus>
+                <author></author>
+                <questionTitle>Nota de 2a feria post Iudica domine</questionTitle>
+                <incipit>Duo mala fecit populous meus. Me derequerunt fontem aque vive...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item253">
+                <locus>132v</locus>
+                <author></author>
+                <questionTitle>Nota epytafium ad Helidorum episcopum post modica collata ex eo</questionTitle>
+                <incipit>Clericatum non honorem intelligens sed onus. Nec virtutes nec vicia parentum liberis imputantur...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item254">
+                <locus>132v-133r</locus>
+                <author></author>
+                <questionTitle>Nota de passione Christi</questionTitle>
+                <incipit>Haurietis aquas in gaudio… (Is. 12, 3). ‘Ascendent sicut virgultum…’ (Is. 53, 2) quia natus est dominus sine opera humano...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item255">
+                <locus>133r</locus>
+                <author></author>
+                <questionTitle>Bernardus in libro de libero arbitrio </questionTitle>
+                <incipit>Quasi dii efficimur per bonam voluptatem...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item256">
+                <locus>133r</locus>
+                <author></author>
+                <questionTitle>Nota de passione Christi</questionTitle>
+                <incipit>Ihesus est spiritus humanus. Duo latrones caro et mundus qui debent crucifigi...</incipit>
+                <explicit>Non diligamus verbo neque lingua sed opera et virtute.</explicit>
+            </msItem>
+            <msItem xml:id="item257">
+                <locus>133v-134r</locus>
+                <author></author>
+                <questionTitle></questionTitle>
+                <incipit>Si quis vult venire post me (Matth. 10, 38. Luc. 9, 23) per affectum interiorem per imitacionem exteriorem ad patriam superiorem...</incipit>
+                <explicit>...hominem deformatum reparet.</explicit>
+            </msItem>
+            <msItem xml:id="item258">
+                <locus>134v-135r</locus>
+                <author></author>
+                <questionTitle>Nota de sacramento eukaristie</questionTitle>
+                <incipit>Ex horologio sapiencie. pet out doceas qualiter te digne valeam suscipere...</incipit>
+                <explicit>...preparare in occursum Dei tui.</explicit>
+            </msItem>
+            <msItem xml:id="item259">
+                <locus>135r</locus>
+                <author></author>
+                <questionTitle>Nota quomodo aliquis potest communicare (?) cene absque peccato </questionTitle>
+                <incipit>Quicumque cum consciencia peccati motalis ad communionem accesserit...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item260">
+                <locus>135v</locus>
+                <author></author>
+                <questionTitle></questionTitle>
+                <incipit>Ve qui dicitis malum bonum et bonum malum. Nota de contemplacione. Nota de siti spirituali anime. Nota pulcra exempla.</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem type="description" xml:id="item261">
+                <locus>136r-137v</locus>
+                <author></author>
+                <questionTitle>Quaestiones et notae variae</questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item262">
+                <locus>136r</locus>
+                <author></author>
+                <questionTitle>Utrum Theologia existens sciencis practice sit in omnibus aliis scienciis consona</questionTitle>
+                <incipit>Conclusio 1a. Quamvis processus theologicus non sit vere demonstrativus...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item263">
+                <locus>136r</locus>
+                <author></author>
+                <questionTitle>Utrum omnis error veritati katholice oppositus sit censendus hereticus</questionTitle>
+                <incipit>Conclusio 1a. Non est in potestate intellectus humani...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item264">
+                <locus>136r-v</locus>
+                <author></author>
+                <questionTitle>Utrum in divinis sit aliquid prius vel posterius maius aut minus superius vel inferius</questionTitle>
+                <incipit>Arguitur per illud Io. 6 ‘pater maior me est’ ...</incipit>
+                <explicit>Ex conclusionibus simul combinatis sequitur quod questio est falsa.</explicit>
+            </msItem>
+            <msItem xml:id="item265">
+                <locus>136v</locus>
+                <author></author>
+                <questionTitle>Utrum voluntas utendo et fruendo necessario feratur in cognitum</questionTitle>
+                <incipit>Conclusio 1a. Nulla voluntas creata...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item266">
+                <locus>136v-137r</locus>
+                <author></author>
+                <questionTitle>Utrum in scriptura sacra sit aliqua proposicio de virtute significacionis falsa</questionTitle>
+                <incipit>Conclusio 1a. Licet in diversis passibus ab auctoribus scripture sacre multa ponatur recitative...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item267">
+                <locus>137r</locus>
+                <author></author>
+                <questionTitle>Utrum fides sit medium inter scienciam et opinionem</questionTitle>
+                <incipit>Conclusio 1a. Licet sciencia fides et opinion sint eiusdem speciei...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item268">
+                <locus>137r</locus>
+                <author></author>
+                <questionTitle>Utrum studium theologicum sit ceteris studiis magis meritorium</questionTitle>
+                <incipit>Conclusio 1a. Sicut nullus anime actus est de se meritorius...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item269">
+                <locus>137r-v</locus>
+                <author></author>
+                <questionTitle>Utrum theologia in regimine ecclesie sit precipua</questionTitle>
+                <incipit>Conclusio 1a. Licet ecclesia a spiritu sacto principaliter regatur...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item270">
+                <locus>137v</locus>
+                <author></author>
+                <questionTitle>Utrum principia theologice veritatis repugnant principiis naturalis lucis</questionTitle>
+                <incipit>Conclusio 1a. Est una prima veritas ad quam finaliter quelibet alia ordinatur...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem type="description" xml:id="item271">
+                <locus>137v-141r</locus>
+                <author></author>
+                <questionTitle>Notae variae ad sermones</questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item272">
+                <locus>137v-138r</locus>
+                <author></author>
+                <questionTitle>Nota de remissione peccati</questionTitle>
+                <incipit>In omelia 8ve pache. Nota quod in dacione spiritus sancti dicitur quorum remiseritis peccata</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item273">
+                <locus>138r</locus>
+                <author></author>
+                <questionTitle>Nota de misericordia Dei</questionTitle>
+                <incipit>Feria 5a pasche in fine omelie. Ubique nobis occurrit superna medicina...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item274">
+                <locus>138r</locus>
+                <author></author>
+                <questionTitle>Nota quomodo verbum Dei est ubique </questionTitle>
+                <incipit>Non re pars unigeniti venit in corpore nec se ipse divisit...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item275">
+                <locus>138r</locus>
+                <author></author>
+                <questionTitle>Nota</questionTitle>
+                <incipit>Lassati sumus a via iniquitatis et perdicionis et ambulavimus vias difficiles...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item276">
+                <locus>138v-141r</locus>
+                <author></author>
+                <questionTitle>Nota quomodo mors possit appeti</questionTitle>
+                <questionTitle>Nota de tribulacione</questionTitle>
+                <questionTitle>Nota de timore domini</questionTitle>
+                <questionTitle>Nota de multitudine inimicorum invisibilium</questionTitle>
+                <questionTitle>Nota de temptacione</questionTitle>
+                <questionTitle>Nota pulchram significacionem de 40am in prima dominica</questionTitle>
+                <questionTitle>Nota qualiter Deus temptet. leo in sermone</questionTitle>
+                <questionTitle>Nota de temptacione Gregorii in omenlia 16 ‘Ductus est Ihesus in desertum’ Matth. 4a</questionTitle>
+                <questionTitle>Nota de cultu Dei</questionTitle>
+                <questionTitle>Nota quod dyabolus habuit nos in omni facto </questionTitle>
+                <questionTitle>Nota de temptacione Cristo super Matth. in imperfecta omelia 7a</questionTitle>
+                <questionTitle>Nota de adventu Christi ad iudicium</questionTitle>
+                <questionTitle>Nota de perseverancia in bonis operibus</questionTitle>
+                <questionTitle>Nota de lucta contra dyabolus</questionTitle>
+                <questionTitle>Nota de paciencia Christi</questionTitle>
+                <questionTitle>Nota bene de matrimonio</questionTitle>
+                <questionTitle>Criso de temptacione</questionTitle>
+                <questionTitle>Nota de progressu virtutum</questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem type="description" xml:id="item277">
+                <locus>141v-147v</locus>
+                <author></author>
+                <questionTitle>Questiones et notae variae</questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item278">
+                <locus>141v-142r</locus>
+                <author>Iohannes Berwardus</author>
+                <questionTitle>Utrum a pluribus causis totalibus eundem effectum in numero produci sit sustinebile sine contradiccione apparente</questionTitle>
+                <incipit>In oppositum, quia, si sic, tunc staret idem bis produci quod videtur contradiccionem claudere...</incipit>
+                <explicit>...si de alibi iterum non, sed de etc.</explicit>
+            </msItem>
+            <msItem xml:id="item279">
+                <locus>142r-v</locus>
+                <author></author>
+                <questionTitle>Nota de proporcionibus</questionTitle>
+                <incipit>Omnis proporcio vel est communiter dicta vel proprie dicta...</incipit>
+                <explicit>...sicut se habet primus terminus 2i numeri ad suum 3m ut 8, 4, 2 et 4, 2, 1. Et tamen de proporcionibus.</explicit>
+                <p>Free and severely shortened according to Thomas Bradwardinus, tractatus proportionum c. 1, 1-2. (ed. H.L. Crosby, Madison 1955, pp. 66-76).</p>
+            </msItem>
+            <msItem xml:id="item280">
+                <locus>142v-144v</locus>
+                <author></author>
+                <questionTitle>Nota de transitu virtutum</questionTitle>
+                <questionTitle>Nota de ambulancibus ad patriam</questionTitle>
+                <questionTitle>Nota de ambulacione spirituali</questionTitle>
+                <questionTitle>Nota de penitencia</questionTitle>
+                <questionTitle>Nota de Sancto Thoma</questionTitle>
+                <questionTitle>Nota de 3ci effectu sacramenti ipsum digne sumentibus</questionTitle>
+                <questionTitle>Nota de passione Christi</questionTitle>
+                <questionTitle>Nota quare dominus interdum permisit discipulos suos errare</questionTitle>
+                <questionTitle>Nota quomodo debemus esse grati Deo</questionTitle>
+                <questionTitle>Nota de concupiscentia</questionTitle>
+                <questionTitle>Nota de rependio beneficiorum</questionTitle>
+                <questionTitle>Nota de virtute</questionTitle>
+                <questionTitle>Nota de passione Christi</questionTitle>
+                <questionTitle>Nota de oblacione Christi</questionTitle>
+                <questionTitle>Nota de duplici desiderio</questionTitle>
+                <questionTitle>Nota de voluntate divina</questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item281">
+                <locus>144v-145r</locus>
+                <author></author>
+                <questionTitle>Nota quomodo ignis caritatis debet accenti in nobis </questionTitle>
+                <incipit>Ascendit fumus scilicet lacrimose compunccionis a corde ad oculos...</incipit>
+                <explicit>...in mentibus sanctorum accrescit. Glossa interlinearis.</explicit>
+            </msItem>
+            <msItem xml:id="item282">
+                <locus>145v</locus>
+                <author></author>
+                <questionTitle>Nota quod Deus non exaudit homines propter 6</questionTitle>
+                <incipit>Primo propter petentis indiscrecionem...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item283">
+                <locus>145v</locus>
+                <author></author>
+                <questionTitle>Nota de caritate </questionTitle>
+                <incipit>Scio opera tua quia nomen habes… (Apoc. 3,1). Caritatem tuam primam reliquisti...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item284">
+                <locus>145v-146r</locus>
+                <author></author>
+                <questionTitle>Nota de gracia </questionTitle>
+                <incipit>Emitte spiritum tuum… (cf. Ps. 103, 30). Considerandum est qui spiritus scilicet in eis ad quos mittitur operator...</incipit>
+                <explicit>...huius autem cene dileccionem faciat sentire spiritus etc.</explicit>
+            </msItem>
+            <msItem xml:id="item285">
+                <locus>146r-v</locus>
+                <author></author>
+                <questionTitle>Nota de 7 accibus prudencie. De sacerdocibus </questionTitle>
+                <incipit>Emitte spiritum tuum… (cf. Ps. 103, 30). Considerandum est qui spiritus scilicet in eis ad quos mittitur operator...</incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item286">
+                <locus>146v-147r</locus>
+                <author></author>
+                <questionTitle>Nota contra avariciam </questionTitle>
+                <incipit>Antiquum dictum est avaro tam deesse quod habet quam quod non habet...</incipit>
+                <explicit>Sacerdos Christi os cum mente concordet.</explicit>
+            </msItem>
+            <msItem xml:id="item287">
+                <locus>147r-v</locus>
+                <author></author>
+                <questionTitle>Nota de clericis</questionTitle>
+                <questionTitle>Nota de timore domini</questionTitle>
+                <questionTitle>Nota de refrigeratione mentis</questionTitle>
+                <questionTitle>Nota de rebus sacerdotum</questionTitle>
+                <questionTitle>Nota de iudicio iusto</questionTitle>
+                <questionTitle>Nota de fide</questionTitle>
+                <questionTitle>Nota de misterio Sancte crucis</questionTitle>
+                <questionTitle>Nota de modis temptacionis</questionTitle>
+                <questionTitle>Nota hystoria</questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item288">
+                <locus>148r-153r</locus>
+                <author>Henricus Langenstein de Hassia</author>
+                <questionTitle>Continuatio homine s. Augustini de festo lanceae et clavorum. Omelia m. H. de Hassia</questionTitle>
+                <incipit>In illo tempore rogauerunt Iudei pylatum (cf. Ioh. 19,31). ‘Unus militum lancea latus eius aperuit…’ (Ioh. 19, 34) ‘Vigilanti animo ewangelista usus et non diceretur latus eius percussit...</incipit>
+                <explicit>...Tunc dicetur dignus est agnus qui lanceatus est qui clavis confossus est qui occisus est accipere virtutem et divinitatem sapienciam honorem et gloriam in secula seculorum. Amen.</explicit>
+                <p>Under: nota pro divisione thematis: K.J.Heilig, Kritische Studien zum Schrifttum der beiden Henriche von Hesse, R.Q. 40, 1932, S. 135</p>
+            </msItem>
+            <msItem xml:id="item289">
+                <locus>153v-158r </locus>
+                <author>Henricus Langenstein de Hassia</author>
+                <questionTitle>Tractatus de dici de omni in theologia</questionTitle>
+                <incipit>Inquisiturus de dici de omni secundum intuitionem aristotelis et philosophorum an videlicet sufficiat generaliter catholicis ad sylogisandum in divinis...</incipit>
+                <explicit>...non debemus fingere talia superflua quibus magis derideamur ab aliis qui sunt quam defensemur etc.</explicit>
+                <p>Under: nota pro divisione thematis: K.J.Heilig, Kritische Studien zum Schrifttum der beiden Henriche von Hesse, R.Q. 40, 1932, S. 135</p>
+            </msItem>
+            <msItem type="description" xml:id="item290">
+                <locus>158r-159v</locus>
+                <author></author>
+                <questionTitle>Questiones et notae variae</questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item291">
+                <locus>158r</locus>
+                <author></author>
+                <questionTitle>Nota de ultima cena post resurreccionem Christi</questionTitle>
+                <questionTitle>Nota pro impetratione Grecie</questionTitle>
+                <questionTitle>Nota de proprietate personali</questionTitle>
+                <incipit></incipit>
+                <explicit></explicit>
+            </msItem>
+            <msItem xml:id="item292">
+                <locus>158v-159r</locus>
+                <author></author>
+                <questionTitle>Utrum quodlibet genus sit divisibile in duas species sibi immediatas</questionTitle>
+                <incipit>Et arguitur primo quod non. Nam illud genus substancia non est divisibile...</incipit>
+                <explicit>...quod sit eiusdem rationis secundum omnes partes sui etc.</explicit>
+            </msItem>
+            <msItem xml:id="item293">
+                <locus>159r-v</locus>
+                <author></author>
+                <questionTitle>Nota quod Io. Ew. Fuit marti. Nota de ineffabilitate incarnacionis Christi. Nota unam considerationem pro conservatione humilitatis. Nota quid sit petere in nomine Ihesu. Nota quod preciositas vestium est peccatum. Nota quare Deus permiserit Petrum cadere</questionTitle>
+                <incipit>Et arguitur primo quod non. Nam illud genus substancia non est divisibile...</incipit>
+                <explicit>...quod sit eiusdem rationis secundum omnes partes sui etc.</explicit>
+            </msItem>
+            <msItem xml:id="item294">
+                <locus>159v</locus>
+                <author></author>
+                <questionTitle>Nota quare Christus voluit differre incarnationem suam H.H. Nota de cognitione divinarum personarum</questionTitle>
+                <incipit>Et arguitur primo quod non. Nam illud genus substancia non est divisibile...</incipit>
+                <explicit>...quod sit eiusdem rationis secundum omnes partes sui etc.</explicit>
+            </msItem>
+            <msItem xml:id="item295">
+                <p>A-X-44
+                    Paper; 15.5. 22, 159 pp. (To 111 upper right Arabic counted, 136-147 above middle Arabian old counted 30-40, pinned note: 10a.37a.40a.41a.43a.44a.50a.52a / 56a.52b.58a .b.66a.68a.b.75a.89a / 91a.96a.97a / 107a.103a.116a.b.139a.143a.146a); Positions: 9 VI 108 + VII122 + (VI + 1) 135 + 2 VI 159: Complaints below right 60v.72v.96v
+                    
+                    1-36.44v lower half-109.112r lower half-114.115v lower half -122.130v-147.158r second quarter-159: 10-10.5 writing space. 16-17.5, inked; usually about 48-58 lines; Notula, written in Vienna by Henricus de Ringeldia (identification by the letter addressed to him, used by him as a waste paper 89a / 91 see also below Ptov.) 1394-1397 (data 9r, 25r Rd. 36v Rd. 44v 84r Rd. 110r Rd.); partially rubricated. - The remaining pieces and individual bound sheets of various simultaneous hands (148r-158r above Bastarda); throughout the band notes and corrections by Henricus de Rinfeldia, also scattered by another hand.
+                    
+                    Binding 15th century (around 1400), smooth red leather over cardboard covers; 2 pairs of straps cut off smoothly, a long-strap buckle reaching backwards is missing; Mirror Perg.-fragments, 14th century (?), With paper pasted over a piece of it); Perg.-Title-shild on the back D., signature with ink on the front D .; formerly Catenatus (traces at the front D. below).
+                    
+                    From the Dominican convent Basel (no possession entry, but old signatures: on the front DG 292, painted, beside, only under the quartz lamp legible 'f (?) T 58; on the title plate of the rear Ds H 12, the number scratched out and by 18 The writer Henricus de Rinfeldia died in the Basel Convention, see Boner 2, 185-186, Schmidt No. 153).</p>
+            </msItem>
         </msContents>
 </msDesc>
 
